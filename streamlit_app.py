@@ -7,6 +7,7 @@ A modern web application for labeling text sentiment
 import streamlit as st
 import pandas as pd
 import os
+import tempfile
 from datetime import datetime
 from pathlib import Path
 import base64
@@ -120,16 +121,23 @@ def get_available_files():
 def load_completed_files():
     """Load list of completed files from a tracking file"""
     completed_file = Path(__file__).parent / '.completed_files.txt'
-    if completed_file.exists():
-        with open(completed_file, 'r') as f:
-            return [line.strip() for line in f.readlines()]
+    try:
+        if completed_file.exists():
+            with open(completed_file, 'r') as f:
+                return [line.strip() for line in f.readlines()]
+    except (PermissionError, OSError):
+        pass
     return []
 
 def save_completed_files(completed_files):
     """Save list of completed files"""
     completed_file = Path(__file__).parent / '.completed_files.txt'
-    with open(completed_file, 'w') as f:
-        f.write('\n'.join(completed_files))
+    try:
+        with open(completed_file, 'w') as f:
+            f.write('\n'.join(completed_files))
+    except (PermissionError, OSError):
+        # Silently fail on read-only filesystems
+        pass
 
 def mark_file_as_completed(filename):
     """Mark a file as completed"""
@@ -141,14 +149,22 @@ def reset_completed_files():
     """Reset all completed files"""
     st.session_state.completed_files = []
     completed_file = Path(__file__).parent / '.completed_files.txt'
-    if completed_file.exists():
-        completed_file.unlink()
+    try:
+        if completed_file.exists():
+            completed_file.unlink()
+    except (PermissionError, OSError):
+        pass
 
 # Progress management functions
 def get_progress_file_path():
     """Get path to the progress file"""
     progress_dir = Path(__file__).parent / '.progress'
-    progress_dir.mkdir(exist_ok=True)
+    try:
+        progress_dir.mkdir(exist_ok=True)
+    except (PermissionError, OSError):
+        # Fallback for read-only filesystems (e.g., Streamlit Cloud)
+        progress_dir = Path(tempfile.gettempdir()) / 'senti_nalysis_progress'
+        progress_dir.mkdir(exist_ok=True)
     return progress_dir / 'current_session.json'
 
 def check_for_saved_progress():
@@ -245,7 +261,12 @@ def load_csv_file(filename):
 def save_report_to_results(username, filename, csv_content):
     """Save completed report to results directory"""
     results_dir = Path(__file__).parent / 'results'
-    results_dir.mkdir(exist_ok=True)
+    try:
+        results_dir.mkdir(exist_ok=True)
+    except (PermissionError, OSError):
+        # Skip saving to results on read-only filesystems
+        st.warning("⚠️ Results directory is read-only. File will only be available for download.")
+        return None
     
     # Clean username
     clean_username = username.replace(' ', '_')
@@ -261,9 +282,12 @@ def save_report_to_results(username, filename, csv_content):
     output_path = results_dir / output_filename
     
     # Save file
-    csv_content.to_csv(output_path, index=False)
-    
-    return output_filename
+    try:
+        csv_content.to_csv(output_path, index=False)
+        return output_filename
+    except (PermissionError, OSError) as e:
+        st.warning(f"⚠️ Could not save to results directory: {str(e)}")
+        return None
 
 # Navigation functions
 def start_labeling():
@@ -591,9 +615,10 @@ def show_complete_screen():
             st.session_state.selected_file,
             download_df
         )
-        st.success(f"✅ Report saved to results directory as: **{output_filename}**")
+        if output_filename:
+            st.success(f"✅ Report saved to results directory as: **{output_filename}**")
     except Exception as e:
-        st.error(f"Error saving report: {str(e)}")
+        st.warning(f"⚠️ Could not save to results directory (read-only filesystem). Download button still works!")
     
     # Download button
     csv_data = download_df.to_csv(index=False)

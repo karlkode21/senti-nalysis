@@ -1,0 +1,95 @@
+user,text,sentiment,score
+Student,You wanna start this way and go around ask a question.,neutral,0.0
+Agent,"Okay, I’m ready. What do you need to know about Charity?",positive,0.7351
+Student,Can you tell me more about the fevers?,neutral,0.0
+Agent,"Her fever hasn’t been very high — just around a hundred degrees when I check. It comes and goes, not constant. She’ll feel warm for a while, then seem okay, and then it comes back. It’s been happening off and on for a couple days now.",positive,0.4215
+Student,Has she had any easy bruising?,positive,0.4404
+Agent,"I haven’t noticed any bruises, just these tiny red spots on her legs. They don’t go away when I press on them. I’m not sure if that’s the same thing, but it’s new for her.",negative,-0.1232
+Student,Has any of this happened before?,neutral,0.0
+Agent,"No, she’s never had anything like this before. She’s always been healthy. This is the first time I’ve seen her limp or get these red spots.",positive,0.1506
+Student,Where is the bone pain located?,negative,-0.5106
+Agent,She points to her right hip and says it hurts. She’s been limping and doesn’t want to put weight on that leg. It started about two or three days ago.,negative,-0.4215
+Student,Can you describe the bone pain?,negative,-0.5106
+Agent,"She just says it hurts and sometimes cries if I touch her right hip or try to help her walk. She’s not able to tell me much more, but she definitely avoids using that leg and looks uncomfortable when moving.",negative,-0.3725
+Student,Does she complain throughout the day about her fever or her bone pain? Or is it just once a day?,negative,-0.7319
+Agent,"She complains about her hip pain a few times a day, especially when she tries to walk or stand. The fever doesn’t seem to bother her as much, but she gets more fussy and tired when she feels warm. It’s not just once; it’s on and off.",negative,-0.7612
+Student,Does anything seem to make the pain better?,negative,-0.1027
+Agent,"Ibuprofen helps a little with her pain and fever. She seems more comfortable for a while after I give it, but the pain comes back later. Resting and not walking much also seem to help.",neutral,0.046
+Student,Does the pain radiate anywhere else besides the hip?,negative,-0.5106
+Agent,"No, she only points to her right hip. She hasn’t said anything about pain anywhere else, and I haven’t noticed her favoring any other part of her body.",negative,-0.128
+Student,"Umm, can you describe what the rash is like?",negative,-0.0516
+Agent,"It’s tiny red spots on both her lower legs. They don’t go away when I press on them. They aren’t raised or itchy, just flat and look like little dots. I noticed them yesterday, and there weren’t any before.",negative,-0.2023
+Student,Are they spreading anywhere?,neutral,0.0
+Agent,"No, they’re just on her lower legs right now. I haven’t seen them anywhere else on her body.",negative,-0.296
+Student,Does she feel any tenderness in her lower legs?,positive,0.1531
+Agent,"She hasn’t said her lower legs hurt, just her hip. When I touch the spots, she doesn’t seem bothered or say anything about pain there.",negative,-0.8807
+Student,Has she been?,neutral,0.0
+Agent,"I’m sorry, I didn’t understand. Could you say that another way?",negative,-0.0772
+Student,Has she been less energetic than usual?,positive,0.3832
+Agent,"Yes, she hasn’t wanted to play outside much and has been quieter than normal. She’s usually really active, but lately she just wants to sit or lie down.",positive,0.5494
+Student,Is anyone around her experiencing similar symptoms?,neutral,0.0
+Agent,"No, no one else at home is sick, and I haven’t heard about any kids at her preschool having these symptoms either.",negative,-0.6705
+Student,"On the topic of the red spots, had they grown in size?",neutral,0.0
+Agent,"No, they haven’t gotten any bigger. They look the same as when I first noticed them—just small, flat red dots.",neutral,0.0
+Student,Have there been any changes in her appetite for sleep?,neutral,0.0
+Agent,"She’s been more restless at night and doesn’t sleep as well as she used to. Her appetite is a little less than normal, but she’ll still eat small amounts.",neutral,-0.0378
+Student,Any other skin changes besides the rash?,negative,-0.4019
+Agent,"No, I haven’t seen anything else on her skin. Just those red spots on her legs and she looks a bit pale lately.",neutral,0.0
+Student,You notice any abnormal bleeding or bruising.,neutral,0.0
+Agent,"No, I haven’t seen any bleeding or new bruises. It’s just those red spots on her legs that worry me.",negative,-0.4404
+Student,Has she fallen recently like in the past couple days or got any accidents?,negative,-0.3182
+Agent,"No, she hasn’t had any falls or accidents lately. Nothing happened that I know of that could have hurt her hip or caused these spots.",negative,-0.6908
+Student,"As she had an issue of breath, no difficulty.",positive,0.2584
+Agent,"No, she hasn’t had any trouble breathing. She’s not coughing or wheezing, and her breathing seems normal to me.",negative,-0.4019
+Student,Go to what?,neutral,0.0
+Agent,I’m not sure what you mean. Could you explain a bit more?,negative,-0.2411
+Student,Any family history of cancer?,negative,-0.6597
+Agent,"Her grandfather on my husband’s side had skin cancer, but no one else in the family has had cancer that I know of.",negative,-0.9118
+Student,Has has she had any previous medications prior to all of this happening?,neutral,0.0
+Agent,"No, she hasn’t been on any regular medications before this. I’ve only given her ibuprofen for the pain and fever since these symptoms started.",negative,-0.5106
+Student,Are you aware of any allergies that you might have?,neutral,0.0
+Agent,"I don’t have any known allergies. But I’d really rather focus on Charity right now, if that’s okay.",positive,0.7227
+Student,Are there any other health issues in the family?,neutral,0.0
+Agent,"Her dad’s mom has some glucose intolerance, and both my parents have high blood pressure. Other than that, nothing major that I know of.",negative,-0.296
+Student,You guys traveled anywhere recently?,neutral,0.0
+Agent,"No, we haven’t traveled anywhere lately. We’ve just been at home and she started preschool a couple days ago.",neutral,0.0
+Student,Is there is there anyone sick at preschool?,negative,-0.5106
+Agent,Not that I know of. I haven’t heard about any other kids at her preschool being sick with anything like this.,negative,-0.2023
+Student,"I think they, I think it's just happening.",neutral,0.0
+Agent,I understand. It all started so fast. I just want her to feel better and for someone to tell me what’s going on.,positive,0.4939
+Student,Can you tell me a bit about her home life he lives in?,neutral,0.0
+Agent,"We live in a small town about fifteen miles north of Springfield. It’s me, my husband, Charity, and her baby sister. We have a pretty quiet home—Charity usually plays, helps with her sister, and spends time with us.",positive,0.8625
+Student,"Has her, has your other daughter, her sister, shown any of the similar symptoms to Cherry?",neutral,0.0
+Agent,"No, her baby sister hasn’t shown any symptoms. She seems completely fine—no fever, no spots, nothing out of the ordinary.",negative,-0.3535
+Student,Any exposure to animals or pets?,neutral,0.0
+Agent,"No, we don’t have any pets at home and she hasn’t been around animals recently.",neutral,0.0
+Student,Does she see her PCP regularly and update on vaccines?,neutral,0.0
+Agent,"Yes, she sees her pediatrician for regular checkups and her vaccines are all up to date. She’s never had any issues at those visits.",positive,0.4019
+Student,Have you eaten out recently or has she had any contaminated food?,neutral,0.0
+Agent,"No, we haven’t eaten out lately. She’s just had home-cooked meals, and I haven’t noticed anything unusual with her food.",neutral,0.0
+Student,"Any exposures in the home to tobacco, to smoke, to lead to anything that you're aware of?",neutral,0.0
+Agent,"No, there’s no tobacco or smoke exposure at home, and I’m not aware of any lead or other harmful substances around us.",negative,-0.296
+Student,Has she met all of her developmental milestones?,neutral,0.0
+Agent,"Yes, she’s met all her milestones—walking, talking, playing. She’s always developed normally until this started.",positive,0.5423
+Student,Did you have an uncomplicated delivery with charity?,positive,0.4215
+Agent,"Yes, my pregnancy and delivery with Charity were both uncomplicated. No issues during birth or afterwards.",positive,0.5106
+Student,Though she sleep alone all week.,negative,-0.25
+Agent,"No, she doesn’t sleep alone all week. She usually sleeps in her own bed, but if she’s not feeling well, I’ll let her sleep near me.",negative,-0.5067
+Student,Has there been any nausea or vomiting?,neutral,0.0
+Agent,"Yes, she’s thrown up once or twice a day over the past five days. It’s usually just undigested food or stomach juices.",positive,0.4019
+Student,Have you noticed a specific color to the vomit?,neutral,0.0
+Agent,"No, it just looks like undigested food or clearish stomach juices. I haven’t seen any blood or anything unusual in it.",positive,0.3612
+Student,Does charity target or ear much?,positive,0.4215
+Agent,Her appetite is a bit less than normal lately. She’ll eat small amounts but doesn’t seem very interested in food right now.,positive,0.611
+Student,Is is charity having any ear pain?,negative,-0.128
+Agent,"No, she hasn’t complained about any ear pain. She hasn’t been tugging at her ears or anything like that.",negative,-0.5423
+Student,Thank you. Thank you.,positive,0.6124
+Agent,Is there anything else you want to ask about Charity?,positive,0.4767
+Student,Any changes to her bowel movements like diarrhea or Constipation?,positive,0.3612
+Agent,"No, her bowel movements have been normal. She hasn’t had any diarrhea or constipation.",neutral,0.0
+Student,Has has she had any headaches?,neutral,0.0
+Agent,"She hasn’t said anything about headaches. She’s just been quieter and wants to rest, but hasn’t complained about her head hurting.",negative,-0.7964
+Student,Have you noticed that charity has any lumps or bumps?,positive,0.4215
+Agent,"No, I haven’t felt or seen any lumps or bumps anywhere on her body. Just the red spots on her legs and her limp.",neutral,0.0
+Student,Let's go to the Progress Company.,positive,0.4215
+Agent,"I’m sorry, I didn’t understand what you meant. Could you explain that a bit more?",negative,-0.0772

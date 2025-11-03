@@ -1,0 +1,61 @@
+user,text,sentiment,score
+Student,hi can you tell us a little bit about why you came in today,neutral,0.0
+Agent,"Hey. Well, I've been feeling worn out all the time. My legs swell up pretty bad, and I feel sick most days. My girlfriend's been worried, so I figured I'd better get checked out.",negative,-0.3612
+Student,do you remember when your symptoms started,neutral,0.0
+Agent,"I guess it started getting worse after I stopped working. It's been a while now, but I can't pinpoint exactly when it all began.",negative,-0.3612
+Student,when did you stop working,negative,-0.296
+Agent,I stopped working a few months ago. Just couldn't keep up with the plumbing jobs anymore.,negative,-0.2263
+Student,what did the doctor tell you the last time you came in,neutral,0.0
+Agent,They said they needed to run more tests. I didn't get much else from them at the time.,neutral,0.0
+Student,did you follow up or get those tests,neutral,0.0
+Agent,"Yeah, I've been in and out for tests. Still waiting to hear back on some of them.",positive,0.296
+Student,what tests were they do you know,neutral,0.0
+Agent,"I don't really know all the details. They took some blood and did a few scans, but you'd have to ask the doctors about the specifics.",neutral,0.0
+Student,can you tell us about your past medical history,neutral,0.0
+Agent,"Sure, I've had high blood pressure since my thirties. I also had a mild stroke a while back, but I got better from that. I've been in the hospital before for lung congestion too.",positive,0.5994
+Student,were you ever diagnosed with something having to do with your kidneys,neutral,0.0
+Agent,"Not that I know of. My dad had kidney problems, but I haven't been told anything about my own kidneys.",negative,-0.2144
+Student,can you tell me about your dad's kidney problems,negative,-0.4019
+Agent,"I remember my dad had high blood pressure and diabetes, and I think he had kidney disease too. He passed away young, at 45. That's about all I know.",negative,-0.296
+Student,have you been diagnosed with diabetes,neutral,0.0
+Agent,"No, I haven't been diagnosed with diabetes.",neutral,0.0
+Student,what other symptoms do you have,neutral,0.0
+Agent,"I feel nauseated most days, and everything tastes like metal. My girlfriend says my breath smells fishy, and I wake up with this white powder on my skin.",positive,0.3612
+Student,have you noticed that your urinary habits have changed,neutral,0.0
+Agent,"Yeah, I pee less than I used to, and sometimes it's darker. I figured maybe I'm just not drinking enough.",positive,0.296
+Student,how much are you drinking,neutral,0.0
+Agent,"I try to drink water throughout the day, but probably not as much as I should. I have coffee every morning, too.",neutral,0.0
+Student,color of urine?medications?,neutral,0.0
+Agent,"My urine's sometimes dark. As for medications, I've got a bunch I can't pronounce. My girlfriend makes me keep a list in my wallet.",neutral,0.0
+Student,"can i see the list? fatigue? pain? bruising? rashes? dyspnea, nausea? vomitting?",negative,-0.7399
+Agent,"Sure, the list has furosemide, nifedipine, potassium chloride, clonidine patch, clopidogrel, atenolol, iron, and aspirin. I'm worn out all the time, got a deep ache in my bones, and these bruises show up on their own. I feel nauseated most days and sometimes vomit. I get short of breath when I walk too far. No rashes, but I wake up with this white powder on my skin.",negative,-0.3291
+Student,skin changes?,neutral,0.0
+Agent,"Well, besides the white powder I wake up with, I've noticed bruises showing up for no reason. My skin itches when my legs are swollen, too.",neutral,-0.0258
+Student,recent sickness? kidney stones?,neutral,0.0
+Agent,"I haven't been sick recently, and I've never had kidney stones, as far as I know.",positive,0.4023
+Student,bone fractures? orthopnea? sleep with pillow? vision changes? wt changes? sweating? headache? dizziness? palpitations? cough? fever?,positive,0.4515
+Agent,"I haven't had any bone fractures. I don't sleep with extra pillows, but my girlfriend says my eyes look like they're bulging. I've lost weight without trying, and I sweat out of nowhere. I get dizzy if I stand up too fast, but no palpitations or cough. No fever either, just headaches sometimes.",negative,-0.5108
+Student,how far up your leg do you notice swelling?,neutral,0.0
+Agent,The swelling goes up past my knees now.,neutral,0.0
+Student,appetite?,neutral,0.0
+Agent,"My appetite's not great. Food doesn't sit right anymore, and everything tastes like metal.",negative,-0.2008
+Student,smoking? alc? drugs? father?,neutral,0.0
+Agent,"I don't smoke or use drugs. I have a few beers sometimes, but not often. My dad had high blood pressure, diabetes, and kidney disease. He passed away young.",negative,-0.4215
+Student,mother? anyone else experience this in the fam?,neutral,0.0
+Agent,My mom had breast cancer and passed away at 60. I don't know if anyone else in the family has experienced what I'm going through right now.,negative,-0.6597
+Student,pain in groin?,negative,-0.5106
+Agent,"No, I haven't had any pain in my groin.",positive,0.4023
+Student,back pain/flank?,neutral,0.0
+Agent,I haven't noticed any back or flank pain.,negative,-0.5106
+Student,tetany? tremor? restless leg? asterixis? cramps?,negative,-0.4696
+Agent,"My legs are restless at night, which drives my girlfriend crazy. I haven't noticed any tremors, tetany, or asterixis, but I do get cramps sometimes.",negative,-0.3071
+Student,blood sugar?,neutral,0.0
+Agent,I haven't had any issues with blood sugar that I know of.,neutral,0.0
+Student,can i talk to your girlfriend?,neutral,0.0
+Agent,"She's not here right now, but I can try to answer any questions you have.",neutral,0.0
+Student,hot or cold?,neutral,0.0
+Agent,I feel cold sometimes and then sweat out of nowhere. It's a bit all over the place.,neutral,0.0
+Student,confusion?,negative,-0.296
+Agent,"Yeah, I've been getting mixed up lately. Sometimes I forget what I was doing or can't think straight.",negative,-0.0941
+Student,where is the bone pain,negative,-0.5106
+Agent,"It's a deep ache, mostly in my legs and arms, like I've been hauling pipe all day.",neutral,-0.0258

@@ -1,0 +1,55 @@
+user,text,sentiment,score
+Student,Hey Eugene how's it going what brings you in today,neutral,0.0
+Agent,Hey. I'm just feeling worn out all the time. My girlfriend convinced me to get checked out because of some strange things happening with my body.,positive,0.0516
+Student,why don't you tell me about those strange things,negative,-0.2023
+Agent,"Well, my legs swell up pretty bad, and I'm tired all the time. I also feel like throwing up most days. That's about all I've noticed.",positive,0.1027
+Student,have you recently had any symptoms such as fever or stomach pain or runny nose,negative,-0.5106
+Agent,"I haven't had a fever or a runny nose. My stomach's been off lately, though — feels like throwing up most days.",positive,0.3612
+Student,when did these symptoms start,neutral,0.0
+Agent,They started getting worse after I stopped working. It's been a few months now.,negative,-0.6124
+Student,when did they when did they first start,neutral,0.0
+Agent,"I guess they first started a few months back, before I stopped working.",negative,-0.2263
+Student,again why did you stop working,negative,-0.296
+Agent,I stopped working because I was too weak and tired to keep up with my plumbing jobs.,negative,-0.7717
+Student,do you have any other health conditions,neutral,0.0
+Agent,I've had high blood pressure since my thirties.,negative,-0.296
+Student,what is it normal blood pressure for you,negative,-0.296
+Agent,"My blood pressure's usually on the high side, even with medication. Can't say the exact numbers off the top of my head.",positive,0.2023
+Student,what medications do you take,neutral,0.0
+Agent,I have a whole bunch of medicines I'm on that I can't pronounce. My girlfriend makes me keep a list in my wallet.,neutral,0.0
+Student,can I see the list,neutral,0.0
+Agent,"Sure, the list includes furosemide, nifedipine, potassium chloride, clonidine patch, clopidogrel, atenolol, iron, and aspirin.",positive,0.3182
+Student,does anything make your symptmoms better or worse?,negative,-0.0516
+Agent,"Resting seems to help a bit, but not much else makes a difference. Moving around too much definitely makes things worse, especially with the swelling and fatigue.",negative,-0.3071
+Student,have you had any changes in your urination,neutral,0.0
+Agent,"Yeah, I pee less than I used to. Sometimes it's dark, but I figured I just wasn't drinking enough.",positive,0.1531
+Student,where are you currently being treated for anything,neutral,0.0
+Agent,"I've been in and out of the doctor's office lately, and sometimes back in the hospital for more tests.",neutral,0.0
+Student,do you have any heart issues,positive,0.6369
+Agent,"I haven't been diagnosed with any heart issues, but I sometimes wonder if my heart's giving out with all these symptoms. My blood pressure's been high for years, though.",positive,0.6908
+Student,can you list every single symptom you have please,positive,0.3182
+Agent,"I feel worn out all the time, my legs swell up, I feel like throwing up most days, and there's this metallic taste in my mouth. I also smell ammonia a lot, my girlfriend says my breath smells fishy, and I wake up with a white powder on my skin. My legs twitch at night, and I get confused sometimes. That's about all I can say on that.",negative,-0.25
+Student,do you have any family history,neutral,0.0
+Agent,"Yeah, my dad had high blood pressure and diabetes, and I think he had kidney disease too. He died young, at 45. My mom had breast cancer and passed away at 60.",negative,-0.8402
+Student,do you smoke,neutral,0.0
+Agent,"No, I don't smoke.",neutral,0.0
+Student,do you have any joint or bone pain,negative,-0.5106
+Agent,"Yeah, I've got this deep ache in my bones, like I've been hauling pipe all day.",positive,0.2732
+Student,have you ever had any surgeries,neutral,0.0
+Agent,"No, I haven't had any surgeries.",neutral,0.0
+Student,have you had any injuries or trauma,negative,-0.4215
+Agent,No significant injuries or trauma that I can think of.,negative,-0.5255
+Student,any recent hospitalizations,neutral,0.0
+Agent,I've been in the hospital a few times recently for tests and lung congestion.,neutral,0.0
+Student,what test,neutral,0.0
+Agent,"I don't really know all the specifics, but they've been running various tests to figure out what's going on with my symptoms. You'd have to ask the doctors for details.",neutral,0.0
+Student,do you have any allergies,neutral,0.0
+Agent,None that I know of.,neutral,0.0
+Student,how are you finances,neutral,0.0
+Agent,"Things are a bit tight since I'm not working right now, but we're managing.",neutral,0.0
+Student,do you have insurance,neutral,0.0
+Agent,"Yeah, I've got insurance.",positive,0.296
+Student,what kind,positive,0.5267
+Agent,"I'm not sure of the specifics, but I have some coverage through my work. You'd have to ask the doctors for details.",negative,-0.1232
+Student,wheres your girlfriend,neutral,0.0
+Agent,She's at home right now. She's been really supportive through all this.,positive,0.3597

@@ -1,0 +1,39 @@
+user,text,sentiment,score
+Student,"Hey, so what’s going on today?",neutral,0.0
+Agent,"Hi. Charity’s been more fussy than usual, and she started limping on her right leg two days ago, saying it hurts. She’s also had a low fever off and on. I just want her to feel better.",negative,-0.25
+Student,Is the volume up?,neutral,0.0
+Agent,"Sorry, I’m not sure what you mean by “volume.” Are you asking about Charity’s hearing or something else? Could you put that in simpler words?",negative,-0.3863
+Student,We definitely can’t hear.,positive,0.4019
+Agent,"I’m sorry, I didn’t understand. Are you saying Charity can’t hear well? I haven’t noticed her having trouble with her hearing lately. She hasn’t complained about her ears or anything like that. Is that something I should be worried about?",negative,-0.2168
+Student,Did she have a prior injury to her leg?,negative,-0.4215
+Agent,"No, she hasn’t had any injuries to her leg. She didn’t fall or bump it, at least not that I know of. This limp and pain just started out of nowhere a couple days ago.",negative,-0.5106
+Student,Anything running in the family?,neutral,0.0
+Agent,"Well, her grandparents have some health issues—my parents have high blood pressure, and on my husband’s side, his mom has trouble with her blood sugar and his dad had skin cancer. But nothing like what Charity’s going through right now. She’s always been healthy.",negative,-0.4049
+Student,Does it always hurt her or does the pain come on and off?,negative,-0.7717
+Agent,"It seems to bother her most of the time, especially when she tries to walk or put weight on her right leg. She’ll point to it and say it hurts, but sometimes she just sits quietly and doesn’t mention it. It’s been like this for about two days now.",positive,0.128
+Student,Have you noticed any shortness of breath or fatigue?,negative,-0.25
+Agent,She hasn’t had any trouble breathing—no coughing or wheezing or anything like that. But she’s definitely more tired than usual and hasn’t wanted to play outside. She’s been quieter and just not herself these last few days.,positive,0.3095
+Student,Can you tell us how she describes her pain feeling?,negative,-0.4215
+Agent,"She’s only three, so she doesn’t use many words for it. She just points to her right hip and says, “It hurts.” Sometimes she’ll whimper or cry a little when she tries to walk, but she doesn’t really say much more than that.",negative,-0.2617
+Student,Does anything make it better or worse?,negative,-0.0516
+Agent,Ibuprofen seems to help a bit—she’s less fussy and moves around a little more after I give it to her. Walking or standing makes it worse; she’ll limp and sometimes refuse to put weight on that leg. Resting seems to make her more comfortable.,positive,0.2484
+Student,Umm have you noticed any like bruising or—?,positive,0.3612
+Agent,"I haven’t seen any bruises, but I did notice these tiny red spots on her lower legs yesterday. They don’t go away when I press on them. That’s actually one of the reasons I got really worried and brought her in.",negative,-0.7218
+Student,Can you tell us a little bit about the birth history with Charity?,positive,0.4215
+Agent,"Her birth was pretty normal—full term, no complications. She’s been healthy and hitting all her milestones since then. No major illnesses or hospital stays. She’s up to date on her shots and hasn’t had any problems until now.",positive,0.4061
+Student,Does she have any siblings?,neutral,0.0
+Agent,"Yes, she has a baby sister at home. It’s just the two of them. They’re close, and Charity is usually gentle with her. No one else in the house has been sick lately.",positive,0.4404
+Student,Is she on any medication?,neutral,0.0
+Agent,"Just ibuprofen when she’s uncomfortable or has a fever. I haven’t given her anything else, and she doesn’t take any regular medicine.",negative,-0.3818
+Student,Has she ever been hospitalized before?,neutral,0.0
+Agent,"No, she’s never been hospitalized before. She’s always been healthy, and this is the first time anything like this has happened.",positive,0.6369
+Student,"Have you been sick recently? Like with any cold, flu or anything like that?",negative,-0.3094
+Agent,"I’m fine, really. No colds or flu or anything like that in our house lately. Let’s just talk about Charity—I’m mostly worried about her right now.",positive,0.2001
+Student,Do you have any open wounds on her?,neutral,0.0
+Agent,"No, I haven’t seen any open wounds on her. Her skin looks fine except for those little red spots on her legs. There aren’t any cuts or scrapes.",negative,-0.1027
+Student,Have you noticed any vomiting or changes in her bowel habits?,neutral,0.0
+Agent,"She’s thrown up once or twice a day over the past five days, but her bowel movements seem normal—no diarrhea or constipation. It just looks like undigested food or stomach juices when she vomits.",positive,0.5023
+Student,Can you tell me a little bit about Charity’s diet?,neutral,0.0
+Agent,"She eats pretty well—mostly home-cooked meals with fruits, veggies, and some meat. She’s not picky and usually has a good appetite, though lately she hasn’t wanted to eat as much. I try to keep her diet balanced.",positive,0.7269
+Student,Do you and Charity feel safe at home?,positive,0.6908
+Agent,"Yes, we feel safe at home. It’s a quiet neighborhood, and we’re close as a family. My main concern right now is just Charity’s health.",positive,0.6808

@@ -1,0 +1,75 @@
+user,text,sentiment,score
+Student,Start video games.,neutral,0.0
+Agent,"I’m not sure what you mean. Are you asking about Charity playing video games? She’s only three, so she doesn’t really play those yet. Is there something else you wanted to ask about her?",positive,0.6899
+Student,When did this issue start?,neutral,0.0
+Agent,"It all started about five or six days ago. She first got irritable and tired, then started throwing up. The fever came the next day, and the hip pain and limp showed up two days ago. The red spots on her legs appeared yesterday.",negative,-0.8519
+Student,What did the red spots look like?,positive,0.3612
+Agent,"They’re tiny, flat, red dots on her lower legs. They don’t go away when I press on them. I noticed them just yesterday, and they weren’t there before.",negative,-0.296
+Student,This weekend was like how it's chewing and describe the pain.,negative,-0.2023
+Agent,"I'm sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,How does charity describe the pain?,negative,-0.128
+Agent,"She points to her right hip and says it hurts. She doesn’t really have the words to explain it more, but she limps and doesn’t want to put much weight on that leg. She seems uncomfortable, especially when she tries to walk.",negative,-0.6124
+Student,"Uh, does she say that it hurts anywhere else?",negative,-0.4767
+Agent,"No, she’s only mentioned her right hip hurting. She hasn’t complained about pain anywhere else.",negative,-0.8271
+Student,Got it.,neutral,0.0
+Agent,Is there anything else you want to ask about Charity? I just want her to feel better.,positive,0.743
+Student,Was the vomiting only on the first day or has it continued?,neutral,0.0
+Agent,"She’s been throwing up once or twice a day for the past five days. It’s not a lot, but it keeps happening. Sometimes it’s just food, sometimes it’s clear or yellowish stomach juices.",positive,0.5267
+Student,There's no blood in the vomit.,negative,-0.296
+Agent,"No, I haven’t seen any blood in her vomit. It’s just been food or clearish liquid. If I saw blood, I’d have come in even sooner.",neutral,0.0
+Student,Does charity have any medical conditions?,positive,0.4215
+Agent,"No, she’s been healthy up until now. She’s never had any major illnesses or injuries, and her development has been normal. Her immunizations are all up to date.",negative,-0.2006
+Student,Does she have any diarrhea?,neutral,0.0
+Agent,"No, she hasn’t had any diarrhea. Her stools have been normal as far as I’ve noticed.",neutral,0.0
+Student,Is there anything that seems to make the pain better?,negative,-0.1027
+Agent,"Ibuprofen seems to help a little with her pain and fever. She’s a bit more comfortable for a while after I give it, but the pain in her hip comes back once it wears off. Resting helps too—she doesn’t like to walk much right now.",positive,0.5152
+Student,"Have you noticed any other skin changes such as umm, bruising or anything like that?",positive,0.3612
+Agent,"No, I haven’t seen any bruising anywhere else. It’s just those small red spots on her lower legs. Her skin looks pale, but no other changes that I’ve noticed.",negative,-0.5267
+Student,"Uh, have you noticed any difficulty breathing?",negative,-0.34
+Agent,"No, she hasn’t had any trouble breathing. No coughing, wheezing, or anything like that. Her breathing seems normal to me.",negative,-0.34
+Student,Is she complaining of chest pain?,negative,-0.6249
+Agent,"No, she hasn’t said anything about her chest hurting. It’s just her right hip that she points to and complains about.",negative,-0.6486
+Student,Does she take any other medications besides the ibuprofen that you mentioned?,neutral,0.0
+Agent,"No, she’s only had ibuprofen when needed for pain and fever. She’s not on any other medications.",negative,-0.5106
+Student,How high has the fever gotten that you've measured?,neutral,0.0
+Agent,"I'm sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,What's the pattern of her fever?,neutral,0.0
+Agent,"Her fever has been off and on for a few days. Sometimes she feels warm, sometimes she’s fine. The highest I’ve measured was about 100.3°F yesterday, and it was a little higher the day before. It’s never been really high.",positive,0.4019
+Student,How's her appetite and drinking habits been?,neutral,0.0
+Agent,"She hasn’t wanted to eat much, and she’s drinking less than usual. I try to encourage her to take sips of water, but she’s not interested. She used to have a good appetite before all this started.",positive,0.4789
+Student,"Uh, is she having any pain in her fingers?",negative,-0.5106
+Agent,"No, she hasn’t mentioned any pain in her fingers. She only talks about her right hip hurting.",negative,-0.7184
+Student,"Umm, any family history of leukemias or umm, any sort of other blood disorders?",neutral,0.0
+Agent,"No one in our family has ever had leukemia or any blood disorders that I know of. Her grandfather had skin cancer, and her grandmother has some glucose problems, but nothing like what you’re describing.",negative,-0.7792
+Student,Has anyone that charity's been around been sick recently?,negative,-0.5106
+Agent,"Not that I know of. No one at home has been sick, and I haven’t heard about any illnesses at her preschool either.",negative,-0.8271
+Student,Have you noticed any swelling in your neck or lymph nodes?,neutral,0.0
+Agent,"I haven’t noticed any swelling in her neck or lymph nodes. Her neck looks normal to me, and she hasn’t complained about any pain there.",negative,-0.7184
+Student,Does she have any night sweats?,neutral,0.0
+Agent,"No, I haven’t noticed any night sweats. She’s been more restless at night, but not sweaty.",negative,-0.177
+Student,Has she eaten anything weird or unusual lately?,negative,-0.1779
+Agent,"No, her diet’s been the same as usual—home-cooked meals, nothing out of the ordinary. She hasn’t gotten into anything she shouldn’t have.",neutral,0.0
+Student,Have you traveled recently?,neutral,0.0
+Agent,"No, we haven’t traveled anywhere recently. We’ve just been at home and her preschool.",neutral,0.0
+Student,Has charity ever had any injuries or surgeries?,positive,0.4215
+Agent,"No, she’s never had any injuries or surgeries. She’s been healthy up to now.",positive,0.4019
+Student,Is she allergic to anything?,negative,-0.296
+Agent,"No, she doesn’t have any known allergies. She’s tolerated everything fine so far.",positive,0.2023
+Student,How was the home situation?,neutral,0.0
+Agent,"We’re doing okay at home. It’s me, my husband, Charity, and her baby sister. Things have been a bit stressful with Charity feeling sick, but otherwise, our home life is pretty stable.",positive,0.8074
+Student,How's charity been sleeping?,positive,0.4215
+Agent,"She’s been more restless than usual at night and wakes up more often. Before all this, she slept well, but lately she’s not getting good rest.",negative,-0.5032
+Student,Do you or the father smoke in the home?,neutral,0.0
+Agent,"No, neither of us smoke. There’s no tobacco, alcohol, or anything like that in our home.",positive,0.0772
+Student,Is she restless because of the pain?,negative,-0.6597
+Agent,"I think so. She shifts around and seems uncomfortable, especially when her hip hurts. Sometimes she wakes up and cries a little, so I’m guessing the pain is bothering her at night too.",negative,-0.9231
+Student,Do you guys have any Pets at Home?,neutral,0.0
+Agent,"No, we don’t have any pets at home. Just the four of us—me, my husband, Charity, and her baby sister.",positive,0.4215
+Student,How old is the house or you guys live?,neutral,0.0
+Agent,"I’m not sure of the exact age, but our house is older—probably built in the 1960s. We keep it clean and haven’t had any issues with mold or pests.",positive,0.4712
+Student,Has the family spent a lot of time outside recently?,neutral,0.0
+Agent,"Not really. Charity hasn’t wanted to play outside much since she started feeling sick. Before that, we’d go out sometimes, but nothing unusual lately.",negative,-0.244
+Student,Any sort of bite marks or anything like that you've noticed on cherry skin?,positive,0.3612
+Agent,"No, I haven’t seen any bite marks or anything unusual on her skin besides those small red spots on her legs.",neutral,0.0
+Student,Is she having any ear pain?,negative,-0.5106
+Agent,"No, she hasn’t complained about any ear pain. Her ears seem fine.",negative,-0.6369

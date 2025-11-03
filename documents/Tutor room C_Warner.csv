@@ -1,0 +1,63 @@
+user,text,sentiment,score
+Student,what brings you in today,neutral,0.0
+Agent,I'm just feeling worn out all the time. It's hard to keep up with things.,negative,-0.2732
+Student,when did this start,neutral,0.0
+Agent,It started getting worse after I stopped working.,negative,-0.6124
+Student,why and when did you stop working,negative,-0.296
+Agent,I stopped working because I was too weak and tired to keep up. It's been a while now.,negative,-0.7717
+Student,do you have any other conditions,neutral,0.0
+Agent,I've had high blood pressure since my thirties.,negative,-0.296
+Student,has anything made the tiredness better,positive,0.4404
+Agent,Not really. I just feel worn out no matter what.,negative,-0.3125
+Student,has anything made it worse,negative,-0.4767
+Agent,"The swelling in my legs seems to make it worse, and I get dizzy if I move too fast.",negative,-0.6124
+Student,have you noticed any shortness of breath,neutral,0.0
+Agent,"Yeah, I get short of breath when I walk too far or climb stairs.",positive,0.296
+Student,have you noticed any chest pain,negative,-0.5106
+Agent,"No, I haven't had any chest pain.",negative,-0.5106
+Student,have you noticed anything getting worse at night,negative,-0.4767
+Agent,"I'm sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,do you have any issues sleeping at all,neutral,0.0
+Agent,"Yeah, I can't sleep much anymore. My legs won't stop moving, and I wake up covered in this white, powdery stuff on my skin.",positive,0.4745
+Student,can you lay flat at night with no issues,negative,-0.296
+Agent,"I can lay flat, but my legs twitch a lot, which makes it hard to get comfortable and stay asleep.",positive,0.5927
+Student,have you noticed any cough,neutral,0.0
+Agent,"No, I haven't noticed any cough.",neutral,0.0
+Student,house swollen all your ankles,neutral,0.0
+Agent,"My legs swell up bad, sometimes past my knees, and it can be hard to bend them.",negative,-0.5994
+Student,do you feel the dizziness constantly or only when you exert yourself,neutral,0.0
+Agent,I mostly feel dizzy if I stand up too fast or move around too quickly.,negative,-0.2263
+Student,have you noticed any changes with urinary habits,neutral,0.0
+Agent,"I don't pee as much as I used to, and sometimes it's darker than normal.",neutral,0.0
+Student,does it hurt when you when you urinate,negative,-0.5267
+Agent,"No, it doesn't hurt when I urinate.",positive,0.4168
+Student,you get up a lot of night do you use the bathroom,neutral,0.0
+Agent,"No, I don't get up a lot at night to use the bathroom.",neutral,0.0
+Student,have you noticed any blood in your urine,neutral,0.0
+Agent,"No, I haven't noticed any blood in my urine.",neutral,0.0
+Student,what color is your urine,neutral,0.0
+Agent,Sometimes it's darker than normal.,neutral,0.0
+Student,do you eat beets,neutral,0.0
+Agent,"No, I don't eat beets.",neutral,0.0
+Student,what medications are you taking right now,neutral,0.0
+Agent,I have a whole bunch of medicines I'm on that I can't pronounce. My girlfriend makes me keep a list in my wallet.,neutral,0.0
+Student,do you know what medications are on for your blood pressure,negative,-0.296
+Agent,"Yeah, I'm on a few for my blood pressure, like furosemide, nifedipine, clonidine patch, and atenolol.",positive,0.3612
+Student,does anything run in the family,neutral,0.0
+Agent,"Yeah, my dad had high blood pressure and diabetes, and my mom had breast cancer.",negative,-0.6597
+Student,you take any over the counter medications,neutral,0.0
+Agent,"I take aspirin and iron, but that's about it.",neutral,0.0
+Student,do you smoke at all or drink any alcohol,neutral,0.0
+Agent,"I don't smoke, and I only drink a few beers on Fridays, but not often.",neutral,0.0
+Student,have you ever had surgery for anything or ever been in the hospital,neutral,0.0
+Agent,"I haven't had surgery, but I was in the hospital for lung congestion before. I also had a mild stroke a while back.",neutral,0.0
+Student,when did the lung congestion happen if you had to give me a date,neutral,0.0
+Agent,"I don't remember the exact date, but it was a while back before the stroke.",neutral,0.0
+Student,when was the stroke,neutral,0.0
+Agent,"The stroke happened a while back, but I can't recall the exact date. It caused temporary weakness on my left side, but it got better.",neutral,0.0387
+Student,have you noticed any nausea or vomiting at all,neutral,0.0
+Agent,"Yeah, I feel nauseated most days and have vomited a few times lately.",positive,0.296
+Student,have you noticed a metallic taste at all,neutral,0.0
+Agent,"Yeah, everything I eat tastes like metal.",positive,0.5719
+Student,have you noticed any bruising,neutral,0.0
+Agent,"Yeah, bruises just show up on their own lately.",positive,0.296

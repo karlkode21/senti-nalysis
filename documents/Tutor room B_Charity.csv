@@ -1,0 +1,59 @@
+user,text,sentiment,score
+Student,Has anything like this ever happened in your family?,positive,0.3612
+Agent,"No, nothing like this has happened before. Our family’s pretty healthy overall. There’s some skin cancer and high blood pressure on the grandparents’ side, but not anything like what Charity’s going through now.",negative,-0.5529
+Student,Has Charity ever been through anything like this before?,positive,0.6486
+Agent,"No, she’s never had anything like this before. She’s usually healthy, and I haven’t seen her act this way or complain about pain like this until now.",negative,-0.4039
+Student,What’s your primary concern?,neutral,0.0
+Agent,"She’s never had anything like this before. My biggest worry is her hip pain and how fussy she’s been. She’s usually running around, but now she just wants to lie down and isn’t herself.",negative,-0.5654
+Student,Has she recently had any injury?,negative,-0.4215
+Agent,"No, she hasn’t had any injury that I know of. She just started saying her right hip hurts a couple days ago, but there hasn’t been any fall or accident.",negative,-0.7964
+Student,Have you ever been concerned about her development?,neutral,0.0
+Agent,"No, I haven’t had any concerns about her development. She’s always hit her milestones and seemed right on track for her age.",neutral,0.0
+Student,Does she have any allergies?,neutral,0.0
+Agent,"No, I’ve never had any concerns about her development. She’s met all her milestones and is up-to-date on her shots. And no, she doesn’t have any allergies that we know of.",neutral,0.0
+Student,Is she on any medications?,neutral,0.0
+Agent,"No, she doesn’t have any allergies. She’s not taking any medications right now either.",neutral,0.0
+Student,Have you had any concerns about bruising or rash?,negative,-0.4019
+Agent,"No, she’s not on any medications. I haven’t noticed any bruising or rash either. Her skin looks normal, just a bit pale maybe, but nothing out of the ordinary.",negative,-0.2144
+Student,So there’s cruising now.,neutral,0.0
+Agent,"Sorry, I didn’t understand that. If you’re asking about bruising or rash, I haven’t noticed any on her. Her skin looks normal to me.",negative,-0.4588
+Student,Has her appetite been normal?,neutral,0.0
+Agent,"Her appetite’s been less than usual. She doesn’t want to eat much, probably because she’s been throwing up once or twice a day. Normally, she eats well, but lately she just picks at her food.",positive,0.1779
+Student,Any weight changes?,neutral,0.0
+Agent,"She hasn’t wanted to eat much lately, and she’s been throwing up once or twice a day. I haven’t noticed any big changes in her weight, but she does seem less energetic than usual.",positive,0.5284
+Student,Is there a specific time when she’s throwing up?,neutral,0.0
+Agent,"I haven’t noticed any big changes in her weight. She throws up once or twice a day, but it doesn’t seem to happen at a set time—just sort of randomly, sometimes after eating, sometimes not.",neutral,0.0
+Student,What color is her vomit?,neutral,0.0
+Agent,"She’s thrown up once or twice a day, but there’s no set time—it just happens. The vomit looks like undigested food or stomach juices, nothing unusual in color.",positive,0.1154
+Student,Does she have any swollen or painful lymph nodes?,negative,-0.4404
+Agent,Her vomit just looks like undigested food or stomach juices—nothing unusual in color. I haven’t noticed any swollen or painful lumps on her neck or anywhere else.,negative,-0.1027
+Student,Did she have a normal birth?,neutral,0.0
+Agent,"She had a normal birth, no complications. I haven’t noticed any swollen or painful lumps or anything like that on her. My main concern is her hip pain and how fussy she’s been.",negative,-0.7096
+Student,Does she have siblings and have they ever gone through anything like this?,positive,0.3612
+Agent,"Yes, Charity had a normal birth. She does have a baby sister, and we haven’t had anything like this happen with either of them before. This is the first time I’ve been this worried.",positive,0.6705
+Student,Is she able to walk?,neutral,0.0
+Agent,"She does have a baby sister, but nothing like this has ever happened with either of them before. As for walking, Charity doesn’t want to move around much right now. She says her right hip hurts, so she’s been quieter and not as active.",negative,-0.6759
+Student,Does she have pain anywhere other than her hip?,negative,-0.5106
+Agent,"She’s able to walk, but she’s been limping and doesn’t want to move around much. She only complains about pain in her right hip, not anywhere else.",negative,-0.8126
+Student,Do you have a job?,neutral,0.0
+Agent,"I’m fine, really. It doesn’t matter about me right now. Charity only points to her right hip when she says it hurts. She hasn’t complained about pain anywhere else.",negative,-0.6293
+Student,Do you have insurance?,neutral,0.0
+Agent,It doesn’t matter about me right now. I just want to talk about Charity and make sure she gets the care she needs. Is there anything else you want to know about her symptoms?,positive,0.8402
+Student,Applications.,neutral,0.0
+Agent,I’m not sure what you mean by that. Could you explain a bit more or let me know what you want to ask about Charity?,positive,0.2819
+Student,Does she have night sweats?,neutral,0.0
+Agent,"No, I haven’t noticed any night sweats. She’s felt warm on and off, but nothing like sweating through her clothes at night. Mostly, it’s the hip pain, fussiness, and vomiting that worry me.",negative,-0.8889
+Student,Any shortness of breath?,neutral,0.0
+Agent,"No, I haven’t noticed any night sweats or shortness of breath. She’s just been quieter, not as active, and mostly complains about her hip hurting.",negative,-0.762
+Student,Is there any history of genetic disorders in your family?,neutral,0.0
+Agent,"No, she hasn’t had any trouble breathing. As for genetic disorders, there’s nothing major—just some skin cancer, glucose intolerance, and high blood pressure in the grandparents, but nothing that would explain what Charity’s going through now.",negative,-0.631
+Student,Do you and Charity live at home alone with baby sister?,positive,0.2023
+Agent,"We live together as a family—me, my husband, Charity, and her baby sister. There’s no history of genetic disorders that I know of, just some skin cancer, glucose intolerance, and high blood pressure in the grandparents.",negative,-0.7184
+Student,Are you able to financially support your family?,positive,0.4019
+Agent,"I’m fine, really. Let’s just talk about Charity. My main concern is her hip pain, vomiting, and how quiet she’s been lately. Is there anything else you want to know about her symptoms?",positive,0.1531
+Student,Has she traveled anywhere outside of the United States recently?,positive,0.4215
+Agent,"No, she hasn’t traveled outside of the United States. She’s just started preschool here in town, and we haven’t gone anywhere far recently.",positive,0.4215
+Student,Sore throat.,negative,-0.3612
+Agent,"She hasn’t traveled outside of the United States. I haven’t noticed her complaining about a sore throat either. Her main issues are her right hip pain, vomiting, and being more fussy and quiet than usual.",negative,-0.5859
+Student,Does she have a cough?,neutral,0.0
+Agent,"No, she hasn’t had a sore throat or cough. It’s mostly been her hip pain, vomiting, and fever off and on. She’s just not herself lately.",negative,-0.7003

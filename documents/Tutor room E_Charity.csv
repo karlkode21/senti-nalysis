@@ -1,0 +1,103 @@
+user,text,sentiment,score
+Student,When did the symptoms start?,neutral,0.0
+Agent,"It all started about five or six days ago. She threw up once, got really tired, and became more fussy than usual. The fever came the next day, and then two days ago she started limping and saying her right hip hurt. The red spots on her legs showed up yesterday.",negative,-0.7645
+Student,The news? I wanted this into fight. You want me to ask?,negative,-0.3939
+Agent,"I’m sorry, I didn’t quite understand what you meant. Could you say that a different way? I just want to make sure I’m answering your question about Charity.",positive,0.6249
+Student,What do the spots look like? Are they itchy?,positive,0.1926
+Agent,"They’re tiny red spots, mostly on her lower legs. They don’t go away when I press on them. She hasn’t scratched at them or said they itch, so I don’t think they’re bothering her that way.",negative,-0.5859
+Student,Is Charity in pain?,negative,-0.128
+Agent,"Yes, she points to her right hip and says it hurts, especially when she tries to walk. She’s been limping and doesn’t want to put much weight on that leg. Other than that, she just seems tired and quiet.",negative,-0.4588
+Student,Has Charity received all her childhood vaccinations?,positive,0.4215
+Agent,"Yes, she’s had all her shots on time. Her pediatrician keeps us updated, and we haven’t missed any appointments for her vaccines.",positive,0.128
+Student,Did Charity do anything different the day her symptoms started?,positive,0.4215
+Agent,"Not really. She was just at home with us that day, playing like usual. She didn’t fall or get hurt, and nothing out of the ordinary happened. The only new thing is she started preschool two days ago, but her symptoms began before that.",neutral,-0.0129
+Student,Anything make the pain better? Have you given anything over the counter?,negative,-0.1926
+Agent,"I’ve given her ibuprofen when she seemed uncomfortable, and it helped a little with the pain and fever. She still limps, but she’s a bit less fussy after taking it. Other than that, we’ve just tried to keep her resting and comfortable at home.",positive,0.3883
+Student,Anything that makes it worse?,negative,-0.4767
+Agent,"Walking or putting weight on her right leg seems to make it worse. She tries to avoid standing or moving much, and sometimes she cries if she moves the wrong way. Other than that, nothing else seems to make the pain worse.",negative,-0.9477
+Student,Is the pain constant or do you notice it being worse at any time throughout the day?,negative,-0.7506
+Agent,"It’s not constant. She seems to hurt more when she first wakes up or tries to walk after sitting for a while. Sometimes she’ll play a little, but then she’ll stop and say her hip hurts again. It comes and goes, but walking definitely makes it worse.",negative,-0.7814
+Student,Does she have any bruising that you’ve noticed?,neutral,0.0
+Agent,"No, I haven’t noticed any bruises on her. Just those tiny red spots on her lower legs. I check her skin every day now, just to be sure, but there haven’t been any bruises.",neutral,0.0129
+Student,Any recent travel or exposure to sick contacts?,negative,-0.5106
+Agent,"No, we haven’t traveled anywhere recently. No one at home has been sick, and I haven’t heard about any illnesses at her preschool either. She’s mostly been with family, so I don’t think she’s been exposed to anything unusual.",negative,-0.8402
+Student,Any history of blood disorders or autoimmune disorders in Charity’s family?,neutral,0.0
+Agent,"No, not that I know of. Her grandparents have had things like skin cancer, high blood pressure, and glucose intolerance, but nothing like blood disorders or autoimmune problems that I’m aware of.",negative,-0.724
+Student,How high was her fever at home? Was she having chills?,neutral,0.0
+Agent,"Her temperature was about a hundred degrees when I checked, sometimes a little higher. It’s been off and on for a couple days. I haven’t noticed her shivering or having chills—she just felt warm and looked tired.",negative,-0.25
+Student,Does her hip pain radiate anywhere else?,negative,-0.5106
+Agent,"No, she only points to her right hip when she says it hurts. She hasn’t complained about pain anywhere else, and I haven’t seen her favor any other part of her body.",negative,-0.7506
+Student,Any night sweats?,neutral,0.0
+Agent,"No, I haven’t noticed any night sweats. She’s been restless and wakes up more often, but her sheets and pajamas haven’t been sweaty in the morning.",negative,-0.1406
+Student,Is Charity taking any medications?,positive,0.4215
+Agent,"Just ibuprofen when she seems uncomfortable or has a fever. She’s not on any regular medications, and we haven’t given her anything else.",negative,-0.3818
+Student,Any surgeries in the past or hospitalizations or frequent illnesses?,negative,-0.4939
+Agent,"No, she’s never had any surgeries or been in the hospital. She’s always been healthy, and she doesn’t get sick often—just the usual little colds from preschool.",negative,-0.1531
+Student,Has this ever happened before?,neutral,0.0
+Agent,"No, nothing like this has ever happened before. She’s never had hip pain, red spots, or been this tired and quiet. This is all new for her.",negative,-0.4182
+Student,What was her birth history like? Did you have a vaginal delivery? Any complications during your pregnancy or delivery of Charity?,positive,0.7041
+Agent,"Her birth was pretty normal. I had a vaginal delivery with no major complications, and my pregnancy went smoothly. Charity was healthy from the start—no issues at birth or right after.",positive,0.7579
+Student,Has Charity explained what the pain feels like?,positive,0.25
+Agent,"I’m sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,"What does the pain feel like? Is it sharp, throbbing, dull?",negative,-0.594
+Agent,"She’s only three, so it’s hard for her to describe exactly. She just says her hip hurts and sometimes cries when she tries to walk. She hasn’t said if it’s sharp or dull—she just seems uncomfortable and avoids moving that leg.",negative,-0.8683
+Student,Any swelling that you’ve noticed?,neutral,0.0
+Agent,"No, I haven’t noticed any swelling in her hip or anywhere else. Her leg looks normal except for those little red spots on her lower legs.",negative,-0.296
+Student,Are the spots warm to touch?,positive,0.2263
+Agent,"No, the spots don’t feel warm when I touch them. Her skin feels normal, just a little pale, but the red spots themselves aren’t warm or raised.",positive,0.4215
+Student,How has her appetite been?,neutral,0.0
+Agent,"She hasn’t wanted to eat much lately. Usually she’s a good eater, but since all this started, she just picks at her food and sometimes says she’s not hungry.",positive,0.2382
+Student,How is she sleeping at night?,neutral,0.0
+Agent,"She’s been more restless at night and wakes up more often than usual. Before this, she slept well, but now she seems uncomfortable and doesn’t settle easily.",negative,-0.1145
+Student,Any shortness of breath?,neutral,0.0
+Agent,"No, I haven’t noticed any problems with her breathing. She hasn’t been short of breath or wheezing—just quieter and more tired than usual.",negative,-0.7089
+Student,Any changes in bowel or urinary habits?,neutral,0.0
+Agent,"No, everything seems normal with her bathroom habits. She hasn’t had diarrhea, constipation, or any trouble peeing. Nothing out of the ordinary there.",negative,-0.4019
+Student,What color is her stool?,neutral,0.0
+Agent,Her stool looks normal to me—just the usual brown color. I haven’t noticed anything unusual like blood or it being very pale.,positive,0.3612
+Student,What color is her urine?,neutral,0.0
+Agent,"Her urine looks normal, just the usual light yellow. I haven’t seen anything strange like blood or it being really dark.",positive,0.1779
+Student,What did her vomit look like?,positive,0.3612
+Agent,It just looked like undigested food and some stomach juices. Nothing unusual—no blood or anything strange in it. She’s only thrown up once or twice a day for the past five days.,positive,0.1779
+Student,Is she drinking fluids? Can she keep fluids down?,neutral,0.0
+Agent,"She’s drinking a little, but not as much as usual. Most of the time she can keep fluids down, though she has thrown up a couple times. I’m trying to encourage her to sip water and juice throughout the day.",positive,0.6652
+Student,Any weight loss?,negative,-0.3182
+Agent,"I haven’t noticed any weight loss. She looks a little paler and tired, but her clothes still fit the same, and I haven’t seen any big changes in her size.",positive,0.1979
+Student,"Any headache, neck stiffness, lightheaded or dizziness?",neutral,0.0
+Agent,"No, she hasn’t complained about headaches or neck pain. She hasn’t seemed dizzy or lightheaded either. Mostly she’s just tired, quiet, and bothered by her hip.",negative,-0.9022
+Student,Does she have a sore throat?,negative,-0.3612
+Agent,"No, she hasn’t mentioned a sore throat, and I haven’t noticed her having trouble swallowing or anything like that. Her voice sounds normal, too.",negative,-0.4019
+Student,Any swollen lymph nodes?,neutral,0.0
+Agent,I haven’t noticed any swollen lumps or bumps on her neck or anywhere else. No one’s ever mentioned swollen lymph nodes to me before.,negative,-0.296
+Student,Any changes in the appearance of her tongue?,neutral,0.0
+Agent,"No, her tongue looks normal to me. I haven’t seen any changes in color or texture, and she hasn’t complained about it hurting or feeling strange.",negative,-0.6908
+Student,Any runny nose? Congestion?,neutral,0.0
+Agent,"No, she hasn’t had a runny nose or any congestion. Her breathing sounds clear, and she hasn’t been sneezing or coughing.",positive,0.3818
+Student,Does Charity have any siblings?,positive,0.4215
+Agent,"Yes, she has a baby sister at home. It’s just the two of them, and her sister hasn’t been sick or had any problems lately.",negative,-0.5106
+Student,"Have you noticed any yellowing of her mouth, eyes or skin?",neutral,0.0
+Agent,"No, I haven’t seen any yellowing in her mouth, eyes, or skin. She does look paler than usual, but there’s no yellow color anywhere that I’ve noticed.",negative,-0.4215
+Student,Any medical conditions in you or Charity’s father or other family members?,neutral,0.0
+Agent,"Her grandparents have had skin cancer, high blood pressure, and glucose intolerance. Other than that, there aren’t any major medical conditions in our family, and neither me nor her dad have any serious health problems.",negative,-0.8625
+Student,Do her fingernails look caved in?,neutral,0.0
+Agent,"No, her fingernails look normal to me. I haven’t noticed any caving in or unusual shapes—they’re just like they’ve always been.",positive,0.3612
+Student,Any increase in thirst or urinary frequency?,positive,0.3182
+Agent,"No, I haven’t noticed her drinking more than usual or needing to pee more often. Her habits seem pretty much the same as before all this started.",positive,0.4939
+Student,Any heat or cold intolerance?,neutral,0.0
+Agent,"No, she hasn’t seemed bothered by heat or cold any more than usual. She’s just quieter and more tired, but her temperature tolerance seems normal.",neutral,0.0138
+Student,Any secondhand smoke exposure?,neutral,0.0
+Agent,"No, there’s no smoking in our home, and she hasn’t been around anyone who smokes. We’re careful about that.",negative,-0.1531
+Student,Any lead in the house?,neutral,0.0
+Agent,"No, our house is pretty new, and we haven’t had any issues with lead. We had it checked before moving in, so I don’t think that’s a concern.",positive,0.4939
+Student,Any pets at home?,neutral,0.0
+Agent,"No, we don’t have any pets at home. It’s just us and the kids.",neutral,0.0
+Student,What is Charity’s diet like?,positive,0.3612
+Agent,"She usually eats balanced, home-cooked meals—fruits, veggies, meats, and grains. Lately, she’s been picking at her food and not eating as much, but before this she was a good eater.",positive,0.5927
+Student,Any nosebleeds? Does she bleed easily?,positive,0.4137
+Agent,"No, she hasn’t had any nosebleeds or bleeding problems. I haven’t noticed her bruising easily or having any trouble with cuts or scrapes healing.",negative,-0.6369
+Student,Any other symptoms you’ve noticed that you’d like to share?,positive,0.5719
+Agent,"She’s just been quieter, less playful, and more tired than usual. Other than the hip pain, fever, vomiting, and those red spots, I haven’t noticed anything else. I’m just really worried because she’s not herself.",negative,-0.7491
+Student,Any muscle pain?,negative,-0.5106
+Agent,"No, she hasn’t complained about muscle pain anywhere else. It’s just her right hip that bothers her, and she hasn’t mentioned any other aches or pains.",negative,-0.891
+Student,What do you and her father do for work?,neutral,0.0
+Agent,"I work as an administrative coordinator at a university clinic. Her dad works in construction. But honestly, it doesn’t matter about us right now—I just want to focus on Charity.",positive,0.8519

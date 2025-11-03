@@ -1,0 +1,12 @@
+user,text,sentiment,score
+john_doe,"This product is amazing! I love it so much.",positive,0.95
+jane_smith,"The service was okay, nothing special.",neutral,0.52
+bob_jones,"Terrible experience, would not recommend.",negative,0.12
+alice_williams,"Great quality and fast shipping!",positive,0.88
+charlie_brown,"It's fine, meets expectations.",neutral,0.48
+diana_taylor,"Disappointed with the purchase.",negative,0.23
+evan_davis,"Absolutely fantastic, exceeded my expectations!",positive,0.97
+frank_miller,"Average product, neither good nor bad.",neutral,0.50
+grace_wilson,"Poor quality, waste of money.",negative,0.18
+henry_moore,"Very satisfied with my purchase.",positive,0.85
+

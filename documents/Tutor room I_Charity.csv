@@ -1,0 +1,49 @@
+user,text,sentiment,score
+Student,So what brings you in today?,neutral,0.0
+Agent,She’s been irritable and started limping on her right leg. She points to her hip and says it hurts. That’s why I brought her in.,negative,-0.7351
+Student,License for bone cancer. Blood cancer right now.,negative,-0.8689
+Agent,"I’m sorry, I don’t understand what you mean by “license for bone cancer” or “blood cancer right now.” Are you saying you think Charity might have something really serious? That sounds scary. Can you explain in simpler words?",negative,-0.7937
+Student,How did this start?,neutral,0.0
+Agent,"It all started about five or six days ago. She threw up once, seemed tired, and got fussy. The fever came the next day, and then two days ago she started limping and saying her right hip hurt. Yesterday I noticed those little red spots on her legs.",negative,-0.743
+Student,You said you noticed the little red spots. What do they look like?,positive,0.3612
+Agent,"I’m sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,Can you tell me more about the red spots please?,positive,0.3182
+Agent,"I’m sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,Did the fever stop when the spots showed up?,negative,-0.296
+Agent,"No, the fever hasn’t really stopped. It’s been off and on, even after the spots showed up. She still feels warm sometimes, but it’s not super high.",negative,-0.6559
+Student,Has she been hurt recently or any trauma?,negative,-0.7351
+Agent,"No, she hasn’t been hurt or had any accidents. There’s been no falls or bumps that I know of. She just started limping out of nowhere.",negative,-0.7845
+Student,Has she had any hip problems before this?,negative,-0.4019
+Agent,"No, she’s never had any hip problems before. This is the first time she’s complained about her hip hurting.",negative,-0.7964
+Student,Has your daughter been around anyone sick recently?,negative,-0.5106
+Agent,"Not that I know of. No one at home has been sick, and I haven’t heard about anything at her preschool either.",negative,-0.6705
+Student,Has anything made her pain?,negative,-0.5106
+Agent,"Ibuprofen has helped a little with her pain and fever. Other than that, nothing else seems to make it better or worse. She just avoids putting weight on her right leg.",negative,-0.6041
+Student,Have you guys traveled recently anywhere?,neutral,0.0
+Agent,"No, we haven’t traveled anywhere recently. We’ve just been at home and her preschool.",neutral,0.0
+Student,Any past medical history like sickle cell disease?,positive,0.3612
+Agent,"No, she’s never had any major illnesses. She’s been healthy, and there’s no sickle cell disease or anything like that in her history.",negative,-0.1263
+Student,Any family history?,neutral,0.0
+Agent,"Her grandparents have had some health issues—skin cancer, glucose problems, and high blood pressure—but nothing like sickle cell or anything that would explain what’s going on with Charity.",negative,-0.7514
+Student,Is she having any neck pain?,negative,-0.5106
+Agent,"No, she hasn’t mentioned any neck pain. It’s just her right hip that she says hurts.",negative,-0.7506
+Student,Are her vaccines up to date?,neutral,0.0
+Agent,"Yes, her vaccines are all up to date. She’s had everything she’s supposed to for her age.",positive,0.4019
+Student,"Umm, besides the skin cancer, is there any other history of cancer in the family?",negative,-0.8689
+Agent,"No, just the skin cancer with her grandfather. There isn’t any other history of cancer in the family that I know of.",negative,-0.8689
+Student,How is her appetite? Is she still eating and drinking compared to normal?,neutral,0.0
+Agent,"She’s eating and drinking less than usual. She picks at her food and doesn’t seem very interested, but she’s still taking small sips of water. It’s not like her—she usually has a good appetite.",positive,0.4908
+Student,Can you tell me more about the hip pain?,negative,-0.5106
+Agent,"She points to her right hip and says it hurts. She started limping about two days ago and doesn’t want to put weight on that leg. Ibuprofen helps a little, but she still seems uncomfortable.",negative,-0.5423
+Student,"When she is on the ground, how does she usually get up and stand?",neutral,0.0
+Agent,"She’s been struggling to get up lately. She’ll push up with her arms and avoid using her right leg, kind of scooting or leaning to one side. Before this, she’d just pop right up without any trouble.",negative,-0.4102
+Student,Any other symptoms that your daughter has been experiencing?,neutral,0.0
+Agent,"She’s been quieter than usual and hasn’t wanted to play outside. She’s just not herself—more tired and withdrawn. Other than that, it’s mainly the hip pain, fever, and those red spots.",positive,0.1295
+Student,Have you noticed any weight loss or weight gain?,positive,0.2732
+Agent,"No, I haven’t noticed any changes in her weight. She looks about the same as usual, just a bit more pale and tired.",negative,-0.4877
+Student,Have you noticed any night sweats?,neutral,0.0
+Agent,"No, I haven’t noticed any night sweats. She’s been restless at night, but not sweaty.",negative,-0.1406
+Student,Has she been sleeping through the night?,neutral,0.0
+Agent,"She’s been more restless and wakes up more often than usual, but she does get some sleep. It’s not her normal pattern—she used to sleep through the night.",negative,-0.177
+Student,Does the pain wake her up at night?,negative,-0.5106
+Agent,"I’m sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779

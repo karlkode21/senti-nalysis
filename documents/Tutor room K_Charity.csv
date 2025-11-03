@@ -1,0 +1,65 @@
+user,text,sentiment,score
+Student,Why are you worried about her?,negative,-0.296
+Agent,"She’s been irritable and started saying her right hip hurts. She’s not acting like herself, and I just want her to feel better.",negative,-0.6261
+Student,When did this start?,neutral,0.0
+Agent,She started acting more fussy and tired about five or six days ago. The hip pain started maybe two or three days ago.,negative,-0.7553
+Student,Has this ever happened before?,neutral,0.0
+Agent,"No, nothing like this has happened before. She’s usually healthy and active. This is the first time I’ve seen her like this.",positive,0.6994
+Student,Does she have any other areas of pain besides the hip?,negative,-0.5106
+Agent,"No, she only points to her right hip and says it hurts. She hasn’t complained about pain anywhere else.",negative,-0.8442
+Student,Does anything make it better or worse?,negative,-0.0516
+Agent,"She seems to hurt more when she tries to walk or put weight on that leg. Resting and giving her ibuprofen helps a little, but she still limps and avoids moving much.",negative,-0.1901
+Student,How did she describe the pain?,negative,-0.5106
+Agent,"She just says, “It hurts,” and points to her right hip. She’s only three, so she can’t really describe it more than that. She looks uncomfortable when she tries to walk.",negative,-0.3818
+Student,Has she had any preceding trauma or falls or any flu like symptoms?,negative,-0.4404
+Agent,"No, she hasn’t had any falls or injuries that I know of. She had one episode of vomiting about five or six days ago and then started acting tired and irritable, but no cough or runny nose or anything like that.",negative,-0.3716
+Student,Has she had any fevers?,neutral,0.0
+Agent,"Yes, she’s had a low fever off and on—about a hundred degrees when I checked. It’s not super high, but it’s been coming and going for a couple of days.",negative,-0.1957
+Student,Does she bruise or bleed easily?,positive,0.34
+Agent,"I haven’t noticed her bruising easily before, but just yesterday I saw these tiny red spots on her lower legs that don’t go away when I press on them. That’s new, and it really worried me.",negative,-0.653
+Student,Does she have any known medical conditions?,neutral,0.0
+Agent,"No, she doesn’t have any medical conditions. She’s always been healthy and hasn’t had any major illnesses.",negative,-0.2006
+Student,Is she vaccinated?,neutral,0.0
+Agent,"Yes, she’s up to date on all her vaccines. We’ve always kept her on schedule.",positive,0.4019
+Student,Can you describe what the red spots on her legs look like?,positive,0.3612
+Agent,"I'm sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,What does the rash on her leg look like?,negative,-0.0516
+Agent,"I'm sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,Has she been sleeping OK?,neutral,0.0
+Agent,"She’s been more restless at night lately. She used to sleep really well, but now she wakes up more and seems uncomfortable.",negative,-0.5853
+Student,Can you tell me a little more about the red spots on her legs?,neutral,0.0
+Agent,"I'm sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,Has she been eating and drinking normally?,neutral,0.0
+Agent,"She hasn’t had much of an appetite lately. She eats a little, but not like usual. She’s drinking, but maybe not as much as she normally does.",negative,-0.3115
+Student,Has she had any change in weight?,neutral,0.0
+Agent,"No, I haven’t noticed any change in her weight. Her clothes still fit the same, and she doesn’t look thinner.",positive,0.3612
+Student,Has she been around anyone sick lately?,negative,-0.5106
+Agent,"Not that I know of. No one at home has been sick, and I haven’t heard about anything going around at her preschool.",negative,-0.6705
+Student,Has there been any change to her bathroom habits lately?,neutral,0.0
+Agent,"I'm sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,Has she been pooping and peeing normally?,neutral,0.0
+Agent,"Yes, as far as I can tell, she’s been going to the bathroom like usual. No diarrhea, constipation, or problems with peeing.",positive,0.0772
+Student,Are there any significant?,positive,0.2023
+Agent,I’m not sure what you mean. Could you say that another way?,negative,-0.2411
+Student,Does she have any allergies?,neutral,0.0
+Agent,"No, she doesn’t have any known allergies. She’s never had a reaction to food, medicine, or anything else.",neutral,0.0
+Student,Is she taking any medicine?,neutral,0.0
+Agent,Just ibuprofen when she seems uncomfortable or has a fever. Nothing else.,negative,-0.3818
+Student,Are there any significant family medical history?,positive,0.2023
+Agent,"Her grandfather had skin cancer, her grandmother has some blood sugar problems, and my parents have high blood pressure. Nothing else major that I know of.",negative,-0.8519
+Student,Do the red spots on her leg itch?,neutral,0.0
+Agent,"No, she hasn’t been scratching them or acting like they itch. She doesn’t seem to notice them at all.",positive,0.3612
+Student,Do the red spots on her leg look the same?,neutral,0.0
+Agent,"Yes, they all look the same—tiny, red or purplish spots. They don’t go away when I press on them, and they’re mostly on her lower legs.",positive,0.128
+Student,"Said she had any weakness, numbness or tingling.",negative,-0.5994
+Agent,"No, she hasn’t said anything about feeling weak, numb, or tingly. She just complains about her hip hurting and seems tired.",negative,-0.9001
+Student,Was she pretty active?,positive,0.7096
+Agent,"Yes, she’s usually very active—always running around and playing. Lately, though, she hasn’t wanted to play outside and has been much quieter than normal.",positive,0.7096
+Student,Does she go to daycare?,neutral,0.0
+Agent,"Yes, she goes to preschool. She started a few months ago at the Christian Church.",positive,0.4019
+Student,Can you tell us about your living situation?,neutral,0.0
+Agent,"We live in a small town about 15 miles north of Springfield. It’s me, my husband, Charity, and her baby sister at home.",positive,0.4215
+Student,Do you notice any runny nose or redness in her eyes?,neutral,0.0
+Agent,"No, she hasn’t had a runny nose or any redness in her eyes. Nothing like that.",negative,-0.2755
+Student,Have you had any recent travel?,neutral,0.0
+Agent,"No, we haven’t traveled anywhere recently. We’ve just been at home and around town.",neutral,0.0

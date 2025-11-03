@@ -1,0 +1,57 @@
+user,text,sentiment,score
+Student,Why are you here?,neutral,0.0
+Agent,She’s been irritable and started saying her right hip hurts.,negative,-0.7351
+Student,So what brought you in today with Charity?,positive,0.4215
+Agent,"I’m sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,When did this start?,neutral,0.0
+Agent,"She’s been more fussy for about five days, and she first pointed to her right hip and said it hurt maybe two or three days ago.",negative,-0.5267
+Student,Stop for a second.,negative,-0.296
+Agent,Okay. Is there something you want to ask or clarify about Charity?,positive,0.6124
+Student,When did the fever start?,neutral,0.0
+Agent,"I’m sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,How long has she had a fever?,neutral,0.0
+Agent,"I’m sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,Has anything helped?,neutral,0.0
+Agent,"Ibuprofen seems to help with her pain and fever for a little while, but it doesn’t last long. She still acts tired and quiet even after taking it.",negative,-0.631
+Student,"On a scale of 1 to 10, how painful is it?",negative,-0.4404
+Agent,"It’s hard to say exactly since she’s only three, but when it’s bad she cries and won’t put any weight on her leg. I’d guess maybe a 7 or 8 for her, especially when she tries to walk.",negative,-0.8591
+Student,"On a scale of 1 to 10, how—?",neutral,0.0
+Agent,"I’m sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,Is the hip pain constant?,negative,-0.5106
+Agent,"It comes and goes. She says it hurts more when she tries to walk or put weight on it, but sometimes she’ll sit quietly and not mention it.",negative,-0.2617
+Student,How? Where were you at when the pain started?,negative,-0.5661
+Agent,"We were at home when she first pointed to her right hip and said it hurt. She was just playing quietly in the living room, nothing unusual happened right before.",negative,-0.3818
+Student,Any recent trauma or injuries?,negative,-0.4215
+Agent,"No, there hasn’t been any recent trauma or injuries. She didn’t fall or hurt herself before all this started.",negative,-0.7351
+Student,Any complications during pregnancy?,neutral,0.0
+Agent,"No, my pregnancy with her was uncomplicated. Everything went smoothly.",neutral,0.0
+Student,Did she have a normal birth history?,neutral,0.0
+Agent,"Yes, her birth was normal. No complications, and she came home with us right away.",positive,0.128
+Student,Has Charity ever had any past surgeries?,positive,0.4215
+Agent,"No, Charity has never had any surgeries.",positive,0.4215
+Student,Did you ever have any past surgeries?,neutral,0.0
+Agent,"I’m fine, really. Let’s just talk about Charity.",positive,0.5574
+Student,Any allergies?,neutral,0.0
+Agent,"No, she doesn’t have any known allergies.",neutral,0.0
+Student,Do you have any medications?,neutral,0.0
+Agent,She’s only had ibuprofen for pain and fever as needed. No other medications.,negative,-0.6705
+Student,Has she met her developmental milestones?,neutral,0.0
+Agent,"Yes, she’s met all her milestones on time—walking, talking, playing, everything. There haven’t been any concerns about her development.",positive,0.5423
+Student,What past medical illnesses has she had?,negative,-0.4939
+Agent,"She’s never had any major illnesses. Her development’s been normal, and she’s up-to-date on all her shots. She’s usually very healthy.",negative,-0.128
+Student,Sweet girl.,positive,0.4588
+Agent,She really is. I just want her to feel better and get back to her normal self. Is there anything else you need to know about Charity?,positive,0.7184
+Student,Is she well behaved?,positive,0.2732
+Agent,"Yes, she’s usually very well behaved—gentle and curious, loves playing and helping with her baby sister. Lately, though, she’s been more fussy and quiet than usual.",positive,0.92
+Student,Have there been any recent injuries?,neutral,0.0
+Agent,"No, there haven’t been any injuries. She didn’t fall or bump into anything that I know of. This just started out of nowhere.",neutral,0.0
+Student,Is she experiencing pain anywhere else?,negative,-0.5106
+Agent,"No, she only complains about her right hip. She hasn’t mentioned pain anywhere else.",negative,-0.7096
+Student,Does she have any siblings or family members who experience something similar?,neutral,0.0
+Agent,"No, her baby sister is fine, and nobody else in the family has had anything like this. It’s just Charity who’s been having these problems.",positive,0.5267
+Student,"Umm, has she ever had anything like this before?",positive,0.3612
+Agent,"No, she’s never had anything like this before. She’s usually healthy and active, and nothing similar has ever happened.",positive,0.509
+Student,Has she been in contact with anyone else that has been sick?,negative,-0.5106
+Agent,"Not that I know of. No one at home has been sick, and I haven’t heard about any illnesses at her preschool either.",negative,-0.8271
+Student,Has she been sick recently?,negative,-0.5106
+Agent,"No, she hasn’t been sick recently. No colds or anything like that before all this started.",negative,-0.4588

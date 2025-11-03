@@ -1,0 +1,85 @@
+user,text,sentiment,score
+Student,What brings you in today,neutral,0.0
+Agent,"I've been feeling worn out all the time, and my legs swell up pretty bad.",negative,-0.25
+Student,How long is it been going on,neutral,0.0
+Agent,"It's been a while now, probably a few months. things just seem to be getting worse.",negative,-0.4767
+Student,Is anything seem to make it any better or worse,negative,-0.0516
+Agent,"Not really. resting doesn't seem to help much, and i haven't noticed anything that makes it worse either. it's just there all the time.",negative,-0.6551
+Student,Any other places swelling up besides your legs,neutral,0.0
+Agent,"Mostly just my legs, but my face looks puffier than usual lately.",neutral,0.0
+Student,Have you been experiencing any pain,negative,-0.5106
+Agent,"Yeah, i've got this deep ache in my bones, like i've been hauling pipe all day.",positive,0.2732
+Student,On a scale of 1 to 10 how bad is the pain,negative,-0.7783
+Agent,"I'd say it's around a 6 most days. it's there, but i can still manage.",neutral,0.0
+Student,Located,neutral,0.0
+Agent,The pain's mostly in my arms and legs.,neutral,0.0
+Student,Are you having any change in your urinary habits,neutral,0.0
+Agent,"Yeah, i pee less than i used to, and sometimes it's darker.",positive,0.296
+Student,Have you noticed any blood in your urine,neutral,0.0
+Agent,"No, i haven't seen any blood in my urine.",neutral,0.0
+Student,Any weight changes,neutral,0.0
+Agent,I've dropped some weight without trying. food doesn't sit right anymore.,neutral,0.0
+Student,How much have you lost,negative,-0.3182
+Agent,"I'm not exactly sure, but it's enough that my clothes fit looser.",positive,0.4155
+Student,Did you have any other symptoms come on around the time of the night or of the swelling,neutral,0.0
+Agent,"My legs twitch a lot at night, and i wake up with this white powder on my skin.",neutral,0.0
+Student,Debbie back pain,negative,-0.5106
+Agent,"I have a deep ache in my bones, but it's not specific to my back.",negative,-0.2023
+Student,Have you had any fevers or chills,neutral,0.0
+Agent,"I get cold sometimes and then sweat out of nowhere, but i haven't noticed any fevers.",neutral,0.0
+Student,Any night sweats,neutral,0.0
+Agent,"Yeah, i wake up drenched in sweat sometimes.",positive,0.296
+Student,Do you have any product medical conditions,neutral,0.0
+Agent,"I've had high blood pressure since my thirties, and i had a mild stroke a while back.",negative,-0.296
+Student,What medicines do you take,neutral,0.0
+Agent,I've got a whole bunch of medicines i'm on that i can't pronounce. my girlfriend makes me keep a list in my wallet.,neutral,0.0
+Student,Can we see it,neutral,0.0
+Agent,"Sure, the list includes furosemide, nifedipine, potassium chloride, clonidine patch, clopidogrel, atenolol, iron, and aspirin.",positive,0.3182
+Student,Have you ever been hospitalized or had a surgery,neutral,0.0
+Agent,"I haven't had any surgeries, but i was hospitalized before for lung congestion and after i had a mild stroke.",neutral,0.0
+Student,When did that happen,neutral,0.0
+Agent,"The stroke happened a while back, but i can't remember the exact date. the lung congestion was a bit before that.",neutral,0.0
+Student,Do you have any family medical history of any conditions,neutral,0.0
+Agent,"Yeah, my dad had high blood pressure and diabetes, and my mom had breast cancer.",negative,-0.6597
+Student,Do you have any allergies,neutral,0.0
+Agent,None that i know of.,neutral,0.0
+Student,Have you had any trauma or injury,negative,-0.6808
+Agent,"No, i haven't had any recent trauma or injuries.",negative,-0.4215
+Student,What is your occupation,neutral,0.0
+Agent,"I'm a plumber, but i've been off work lately because i'm too weak to keep up with the jobs.",negative,-0.5927
+Student,Are you aware of any exposures you had from your occupation,neutral,0.0
+Agent,Not that i know of. i haven't been around anything unusual at work.,neutral,0.0
+Student,Do you use tobacco,neutral,0.0
+Agent,"No, i don't smoke.",neutral,0.0
+Student,Do you use alcohol,neutral,0.0
+Agent,"I go out for a few beers on fridays sometimes, but not often.",neutral,0.0
+Student,Do you use any drugs,neutral,0.0
+Agent,"No, i don't use drugs.",neutral,0.0
+Student,Have you noticed any skin changes,neutral,0.0
+Agent,"Yeah, i wake up with this white powder on my skin, and i've noticed bruises showing up for no reason.",neutral,0.0
+Student,Have you felt dizzy or lightheaded,negative,-0.2263
+Agent,"Yeah, i get dizzy if i stand up too fast.",positive,0.0772
+Student,Are you sure of breath,positive,0.3182
+Agent,"Yeah, i get short of breath when i walk too far or climb stairs.",positive,0.296
+Student,Do you have any headaches,neutral,0.0
+Agent,I don't really get headaches much.,neutral,0.0
+Student,Do you have any changes in your vision,positive,0.25
+Agent,"Bright lights bother me, and my girlfriend says my eyes look like they're bulging a bit.",positive,0.4588
+Student,Have you felt confused or lost lately,negative,-0.5574
+Agent,"Yeah, sometimes i get mixed up or forget what i was doing.",positive,0.0772
+Student,Are you feeling any changes in temperature any hot or cold that you don't normally feel,positive,0.128
+Agent,"I feel cold sometimes and then sweat out of nowhere, but no major changes in how i handle temperatures.",positive,0.3252
+Student,Do you have any change in your appetite,neutral,0.0
+Agent,"Yeah, food doesn't sit right anymore, and i've been eating less.",positive,0.296
+Student,Have you had to urinate more frequently or less frequently,neutral,0.0
+Agent,I pee less frequently than i used to.,neutral,0.0
+Student,Have you been more thirsty or less thirsty than normal,neutral,0.0
+Agent,I haven't noticed any big changes in how thirsty i am.,neutral,0.0
+Student,Have you felt nauseous or vomited lately,neutral,0.0
+Agent,"Yeah, i feel like throwing up most days, and i've vomited a few times lately.",positive,0.5719
+Student,Have you had any constipation or diarrhea,neutral,0.0
+Agent,"No, i haven't had any constipation or diarrhea.",neutral,0.0
+Student,What is your taste like,positive,0.3612
+Agent,Everything tastes like metal to me lately.,positive,0.3612
+Student,Interesting,positive,0.4019
+Agent,"Yeah, it's strange and not very pleasant. anything else you'd like to know?",neutral,-0.0049

@@ -1,0 +1,105 @@
+user,text,sentiment,score
+Student,arrhthmya,neutral,0.0
+Agent,I haven't been told I have any arrhythmia.,neutral,0.0
+Student,gout?,neutral,0.0
+Agent,I haven't had any issues with gout.,neutral,0.0
+Student,any back pain,negative,-0.5106
+Agent,"No, I haven't had any back pain.",negative,-0.5106
+Student,how did your father pass away,neutral,0.0
+Agent,"He had high blood pressure and diabetes, and I think he had kidney disease. He passed away young, at 45.",negative,-0.296
+Student,family medical history,neutral,0.0
+Agent,"My dad had high blood pressure and diabetes, and he died young at 45. My mom had breast cancer and passed away at 60.",negative,-0.8807
+Student,wishes and desires,positive,0.1531
+Agent,I just want to get my strength back and go back to work. I want to keep my independence and not be a burden.,positive,0.7356
+Student,any diarrhea or constipation,neutral,0.0
+Agent,"No, I haven't had any issues with diarrhea or constipation.",neutral,0.0
+Student,any burning or pain on urination,negative,-0.5106
+Agent,"No, I haven't felt any burning or pain when I pee.",negative,-0.5106
+Student,any sleep disturbances,negative,-0.34
+Agent,"Yeah, I can't sleep much anymore. My legs twitch all night, and I wake up covered in sweat.",positive,0.296
+Student,how often,neutral,0.0
+Agent,"Maybe once a week, if that.",neutral,0.0
+Student,do you drink alcohol,neutral,0.0
+Agent,"I go out for a few beers on Fridays sometimes, but not often.",neutral,0.0
+Student,any vision chnages,positive,0.25
+Agent,"My girlfriend says my eyes look like they're bulging a bit, but I haven't noticed much else. Bright lights bother me sometimes.",positive,0.3612
+Student,edema?,neutral,0.0
+Agent,"Yeah, my legs swell up bad — sometimes I can barely bend them.",negative,-0.3182
+Student,volume of urine,neutral,0.0
+Agent,It's less than it used to be.,neutral,0.0
+Student,any urgency\,neutral,0.0
+Agent,"No, I haven't noticed any urgency.",neutral,0.0
+Student,any frequency,neutral,0.0
+Agent,"If you mean going to the bathroom, I pee less than I used to.",neutral,0.0
+Student,headache,neutral,0.0
+Agent,I haven't really had any headaches.,neutral,0.0
+Student,any lymph nose swelling,neutral,0.0
+Agent,I haven't noticed any swelling in my lymph nodes.,neutral,0.0
+Student,do you feel full quicker,neutral,0.0
+Agent,"Yeah, I do feel full quicker than I used to.",positive,0.296
+Student,any appetite chnages,neutral,0.0
+Agent,"Yeah, food doesn't sit right anymore, and I've lost my appetite.",neutral,-0.0258
+Student,skin dryness?,neutral,0.0
+Agent,"Yeah, my skin does get dry, especially when my legs are swollen.",positive,0.296
+Student,any other skin chnages,neutral,0.0
+Agent,"I've noticed I wake up with a white powder or frost on my skin sometimes. Also, bruises seem to show up for no reason.",negative,-0.296
+Student,any yellowing of skin or eyes,neutral,0.0
+Agent,"No, I haven't noticed any yellowing of my skin or eyes.",neutral,0.0
+Student,any abdominal pain,negative,-0.5106
+Agent,"No, I haven't had any abdominal pain.",negative,-0.5106
+Student,any shortness of breath,neutral,0.0
+Agent,"Yeah, I get short of breath when I walk too far or climb stairs.",positive,0.296
+Student,any night sweats,neutral,0.0
+Agent,"Yeah, I wake up drenched in sweat sometimes.",positive,0.296
+Student,any chest pain,negative,-0.5106
+Agent,"No, I haven't had any chest pain.",negative,-0.5106
+Student,any coughing,neutral,0.0
+Agent,"No, I haven't been coughing.",neutral,0.0
+Student,any fevers or chills,neutral,0.0
+Agent,"I sometimes feel cold, then sweat out of nowhere, but I haven't really noticed any fevers.",neutral,0.0
+Student,all bones?,neutral,0.0
+Agent,Mostly in my legs and arms. It feels like a deep ache.,neutral,-0.0258
+Student,any pain anywhere,negative,-0.5106
+Agent,"Yeah, I've got this deep ache in my bones, like I've been hauling pipe all day.",positive,0.2732
+Student,any recent medication chnages,neutral,0.0
+Agent,I don't think there have been any recent changes to my medications.,neutral,0.0
+Student,how are you managing your renal failure,negative,-0.5106
+Agent,I don't really know much about managing that. I'm just following what the doctors tell me and taking my medications.,neutral,0.0
+Student,are you currently on dialysis,neutral,0.0
+Agent,"No, I'm not on dialysis.",neutral,0.0
+Student,is it clear or green,positive,0.3818
+Agent,It's usually just clear or normal-looking. Nothing too strange about it.,positive,0.4926
+Student,any blood,neutral,0.0
+Agent,"No, I haven't seen any blood in it.",neutral,0.0
+Student,can you describe what your vomit looks like,positive,0.3612
+Agent,"It's mostly just been regular, nothing unusual that I've noticed.",neutral,0.0
+Student,any blood in the urine,neutral,0.0
+Agent,I haven't noticed any blood in my urine.,neutral,0.0
+Student,hematuria,neutral,0.0
+Agent,"Sorry, what’s that mean?",negative,-0.0772
+Student,can you tell me what you take each medicine for,neutral,0.0
+Agent,I’m not really sure what each one is for. You’d have to ask the doctors about that.,negative,-0.2912
+Student,could you show me it,neutral,0.0
+Agent,"Sure, the list says: Furosemide, nifedipine, potassium chloride, clonidine patch, clopidogrel, atenolol, iron, and aspirin.",positive,0.3182
+Student,are you on any medications,neutral,0.0
+Agent,"Yeah, I'm on a bunch of medicines, but I can't pronounce most of them. My girlfriend makes me keep a list in my wallet.",positive,0.1531
+Student,can you tell me about your medical history,neutral,0.0
+Agent,I've had high blood pressure since my thirties and a mild stroke a while back. I also had lung congestion that put me in the hospital once. I don't smoke or use drugs.,negative,-0.296
+Student,how much weight have you lost,negative,-0.3182
+Agent,"I'm not exactly sure, but my clothes have gotten looser, so it's noticeable.",negative,-0.1232
+Student,any weight changes or appetite changes,neutral,0.0
+Agent,"Yeah, I've lost weight without trying, and food just doesn't sit right anymore.",neutral,-0.0258
+Student,have you had any changes or disturbences in bowel habits,neutral,0.0
+Agent,I haven't noticed any changes with that.,neutral,0.0
+Student,does anything male it better or worse,negative,-0.0516
+Agent,Not really sure what makes it better or worse. It's just there most of the time.,negative,-0.3354
+Student,have you gotten sick recently,negative,-0.5106
+Agent,"I feel nauseated most days, and I've vomited a few times lately. Everything tastes off, like metal.",positive,0.3612
+Student,could you be more specific,neutral,0.0
+Agent,I’d say it’s been a few months now. It got worse after I stopped working.,negative,-0.6124
+Student,when did it start,neutral,0.0
+Agent,"It started a while back, but it's been getting worse lately.",negative,-0.631
+Student,What brings you in today,neutral,0.0
+Agent,"I've been feeling really tired and worn out. My girlfriend noticed I've been slowing down, and she convinced me to get checked out.",negative,-0.352
+Student,hello!,neutral,0.0
+Agent,Hey there.,neutral,0.0

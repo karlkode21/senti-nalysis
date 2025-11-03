@@ -1,0 +1,57 @@
+user,text,sentiment,score
+Student,what brings you in today,neutral,0.0
+Agent,I'm worn out all the time and my legs swell up bad. That's been keeping me from work.,negative,-0.6908
+Student,when did this start,neutral,0.0
+Agent,"It started getting worse after I stopped working, but I've been feeling off for a while now.",negative,-0.1901
+Student,do you take any medications for your chronic kidney disease,neutral,0.0
+Agent,I have a whole bunch of medicines I'm on that I can't pronounce. My girlfriend makes me keep a list in my wallet.,neutral,0.0
+Student,do you have the list perhaps,neutral,0.0
+Agent,"Yeah, I have it. It says Furosemide, nifedipine, potassium chloride, clonidine patch, clopidogrel, atenolol, iron, and aspirin.",positive,0.296
+Student,do you take them every day,neutral,0.0
+Agent,"Yeah, I take them every day. My girlfriend makes sure I don't forget.",positive,0.6329
+Student,has anything made your symptoms better or worse,negative,-0.0516
+Agent,"Not much seems to help. Resting doesn't really make it better, and moving around too much just wears me out more. My girlfriend says I look worse lately, so I guess nothing's really improved.",positive,0.7316
+Student,do you have any urinary symptoms,neutral,0.0
+Agent,"I pee less than I used to, and sometimes it's darker. I figured I just wasn't drinking enough water.",neutral,0.0
+Student,what color is your urine,neutral,0.0
+Agent,"It's darker than usual, but I can't say exactly what color.",neutral,0.0
+Student,are you experiencing any pain anywhere,negative,-0.5106
+Agent,"Yeah, I've got this deep ache in my bones, like I've been hauling pipe all day.",positive,0.2732
+Student,do you have any pain when you pee,negative,-0.5106
+Agent,"No, I don't have any pain when I pee.",positive,0.4023
+Student,when did your bone pain begin,negative,-0.5106
+Agent,"It's hard to say exactly when it started, but it's been getting worse over the past few months.",negative,-0.6542
+Student,what conditions have you been diagnosed with,neutral,0.0
+Agent,"I've had high blood pressure since my thirties, and I had a mild stroke a while back. Those are the main things I know about.",negative,-0.296
+Student,have you had any shaky tremors,negative,-0.2263
+Agent,"I'm sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,how do you felt shaky,negative,-0.2263
+Agent,"I'm sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,have you experienced any trembling,negative,-0.3612
+Agent,"No, I haven't noticed any trembling.",positive,0.2755
+Student,what is your pertinent family medical history,neutral,0.0
+Agent,"My dad had high blood pressure and diabetes, and he died young at 45. My mom had breast cancer and passed away at 60.",negative,-0.8807
+Student,"have you experienced any fever, weight loss, weight gain, chills, headache, dizziness, lightheadedness, rash, itchiness, vision changes, diplopia, blurry vision, ear pain, ear drainage, hearing changes, nasal congestion, runny nose, changes in smell, sore throat, difficulties swallowing, dry mouth, neck swelling, swollen glands, chest pain, shortness of breath, shortness of breath when lying down at night or changes in body positions, palpitations, cough, wheezing, abdominal pain, nausea, vomiting, diarrhea, constipation, muscle weakness, muscle aches, muscular pain, joint pain, easy bruising, easy bleeding, changes in appetite, changes in sleeping habits, excessive thirst, tingling, or burning sensations?",negative,-0.9666
+Agent,"I've been feeling worn out all the time, and there's this deep ache in my bones. My legs swell up pretty bad, and I feel like throwing up most days. Food doesn't sit right anymore, and I've dropped weight without trying. My girlfriend says my breath smells bad, like fish or chemicals. That's about all I can say on that.",negative,-0.4767
+Student,"have you used tobacco, alcohol, caffeine, or recreational drugs?",neutral,0.0
+Agent,"I never smoked and I don't use drugs. I drink coffee every morning, but I try to keep it to just a cup. I don't drink alcohol often, maybe just when my girlfriend and I go out on weekends.",neutral,0.0
+Student,have you used any over the counter medications,neutral,0.0
+Agent,I mostly stick to the prescriptions my doctor gave me. I don't really use over-the-counter stuff unless it's something simple like aspirin for a headache.,positive,0.3612
+Student,what is your vaccination record,neutral,0.0
+Agent,"I don't really remember all the details of my vaccination record. I got the usual shots when I was a kid, and I try to keep up with what the doctor recommends, but I don't know the specifics.",positive,0.1154
+Student,what is your sexual history,neutral,0.0
+Agent,"I've been with my girlfriend for several years now, and before that, I was married. That's about all I can say on that.",neutral,0.0
+Student,do you use condoms,neutral,0.0
+Agent,"No, my girlfriend and I don't use condoms.",neutral,0.0
+Student,have you ever been tested for STIs,neutral,0.0
+Agent,I don't really remember if I've been tested for that. I don't think it's ever come up.,neutral,0.0
+Student,What is your diet,neutral,0.0
+Agent,"I try to eat pretty normally, but food doesn't sit right anymore. My girlfriend and I eat out on weekends, and I try not to add too much salt, though it's hard since everything tastes like metal anyway. I've dropped some weight without trying to.",positive,0.5789
+Student,Is there anything that you may think could have caused this?,neutral,0.0
+Agent,"I keep wondering if it's all part of the same thing, like maybe my body’s just worn out or it has to do with my blood pressure. It's hard to tell what's connected.",negative,-0.3182
+Student,are you itchy?,negative,-0.2732
+Agent,"Yeah, my skin itches when my legs are swollen.",positive,0.296
+Student,any skin color changfes,neutral,0.0
+Agent,"I've noticed my skin looks pale sometimes, and there are bruises that show up for no reason.",negative,-0.296
+Student,where are the bruises that show up,neutral,0.0
+Agent,The bruises mostly show up on my arms and legs.,neutral,0.0

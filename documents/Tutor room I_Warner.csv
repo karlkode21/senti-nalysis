@@ -1,0 +1,71 @@
+user,text,sentiment,score
+Student,hi Eugene what brings you in today,neutral,0.0
+Agent,"Hey there. I've been feeling worn out all the time, and my legs swell up pretty bad. Just trying to figure out what's going on.",negative,-0.25
+Student,are you having any pain today,negative,-0.5106
+Agent,"I've got this deep ache in my bones, like I've been hauling pipe all day. It's been bothering me a bit.",negative,-0.4019
+Student,when did it start,neutral,0.0
+Agent,"It started getting worse after I stopped working, but I've noticed it for a while now.",negative,-0.3612
+Student,why did you stop working,negative,-0.296
+Agent,I stopped working because I was too tired and weak to keep up with my plumbing jobs. Just couldn't do it anymore.,negative,-0.7717
+Student,is the pain all over is there specific location,negative,-0.5106
+Agent,"The ache is mostly in my bones, but my arms and legs feel weak too. It's like my whole body’s giving out.",positive,0.1779
+Student,is there anything that makes your symptoms better or worse,negative,-0.0516
+Agent,"Resting seems to help a little, but not much. Moving around too much or trying to lift things makes it worse.",negative,-0.5106
+Student,is your pain worse at a specific time of day,negative,-0.7506
+Agent,"It's mostly the same throughout the day, but it feels worse when I'm trying to sleep at night.",negative,-0.631
+Student,what symptoms do you have at night,neutral,0.0
+Agent,"At night, my legs won't stop moving, and it keeps me up. I also wake up with this white powder on my skin — looks like frost.",positive,0.5248
+Student,does your skin feel dry,neutral,0.0
+Agent,"Yeah, my skin does feel dry sometimes, especially when I see that white powdery stuff on it.",positive,0.296
+Student,can you rate the pain on a scale of 1 to 10 one being not so bad and 10 being the worst pain,negative,-0.7973
+Agent,"I'd say it's around a 6. It's not unbearable, but it's definitely there and annoying.",neutral,0.0
+Student,did you change anything about your routine or notice any patterns associated with the symptoms,neutral,0.0
+Agent,"I haven't changed much about my routine, but I've noticed that the symptoms seem worse when I'm more active or try to do too much. Resting helps a bit, but not enough to make a big difference.",positive,0.5006
+Student,have you ever had these issues before,neutral,0.0
+Agent,"Not like this. I've had high blood pressure for a while, but these new symptoms — the fatigue, swelling, and everything else — are pretty recent.",positive,0.1643
+Student,did you have any other symptoms that started besides the fatigue swelling,negative,-0.25
+Agent,"Yeah, I feel nauseated most days, and everything tastes like metal. There's also this ammonia smell that won't go away, and my girlfriend says my breath smells fishy.",positive,0.5719
+Student,have you had any episodes of vomiting,neutral,0.0
+Agent,"Yeah, I've vomited a few times lately. It's been happening more often now.",positive,0.296
+Student,have you ever been diagnosed with anything before,neutral,0.0
+Agent,I've had high blood pressure since my thirties and had a mild stroke a while back. That's about it.,negative,-0.296
+Student,do you take any medications regularly,neutral,0.0
+Agent,I have a whole bunch of medicines I'm on that I can't pronounce. My girlfriend makes me keep a list in my wallet.,neutral,0.0
+Student,can we see the list,neutral,0.0
+Agent,"Sure, the list includes furosemide, nifedipine, potassium chloride, clonidine patch, clopidogrel, atenolol, iron, and aspirin.",positive,0.3182
+Student,do you know what you take those medications for,neutral,0.0
+Agent,"Not exactly. I know they're mostly for my blood pressure and keeping things in check, but my doctor handles the details.",negative,-0.1531
+Student,do you smoke tobacco,neutral,0.0
+Agent,"No, I don't smoke.",neutral,0.0
+Student,any alcohol use,neutral,0.0
+Agent,"I sometimes go out for a few beers on Fridays, but not often.",neutral,0.0
+Student,how's your diet and exercise,neutral,0.0
+Agent,"I try to avoid too much salt, though it's hard when everything tastes like metal. My girlfriend and I eat out on weekends. As for exercise, I haven't been able to do much lately because of the fatigue and weakness.",negative,-0.5994
+Student,allergies,neutral,0.0
+Agent,None that I know of.,neutral,0.0
+Student,any past or recent trauma or surgeries,negative,-0.4215
+Agent,"No, I haven't had any trauma or surgeries recently or in the past.",positive,0.3252
+Student,have you had any skin changes,neutral,0.0
+Agent,"Yeah, I've noticed bruises showing up for no reason, and my skin itches when my legs are swollen. There's also that white powdery stuff I wake up with.",neutral,0.0
+Student,where are the bruises located,neutral,0.0
+Agent,The bruises seem to show up mostly on my arms and legs.,neutral,0.0
+Student,are your family members healthy,positive,0.4019
+Agent,"My dad had high blood pressure and diabetes, and he died young at 45. My mom had breast cancer and passed away at 60.",negative,-0.8807
+Student,do you ever get your blood sugar or blood pressure checked,negative,-0.296
+Agent,"Yeah, I get my blood pressure checked regularly since it's been high for a while. I haven't had my blood sugar checked recently, though.",neutral,0.0
+Student,any urinary changes that you've noticed blood in your urine change in color or smell with your urine,neutral,0.0
+Agent,"I pee less than I used to, and sometimes it's darker. I figured I just wasn't drinking enough. No blood that I've noticed.",positive,0.2235
+Student,have you had any recent illness,negative,-0.4019
+Agent,"I haven't had any recent illnesses, but I've been feeling worn out and sick most days with these new symptoms.",negative,-0.8225
+Student,abdominal pain nausea vomiting or diarrhea,negative,-0.5106
+Agent,"I feel nauseated most days and have vomited a few times lately. No abdominal pain or diarrhea, though.",positive,0.1285
+Student,"have you had any headache, lightheadedness, fever, weight change, chest pain, shortness of breath, palpitations, dental problems, abdominal pain, numbness, tingling, vision changes, changes in smell, heat or cold intolerance",negative,-0.8555
+Agent,"I get dizzy if I stand up too fast, and I've lost weight without trying. I feel short of breath when I walk too far or climb stairs. My fingers and toes tingle or go numb sometimes. My girlfriend says my eyes look like they're bulging, and I can't shake this ammonia smell that's always there. No fever, chest pain, or dental problems.",negative,-0.8684
+Student,have you ever fractured a bone,neutral,0.0
+Agent,"No, I've never fractured a bone.",neutral,0.0
+Student,any sweating,neutral,0.0
+Agent,"Yeah, I sweat out of nowhere sometimes, especially at night.",positive,0.296
+Student,have you had any blood loss and do you drink enough water,negative,-0.3182
+Agent,"I haven't noticed any blood loss. I try to drink enough water, but sometimes my urine's dark, so maybe I need to drink more.",negative,-0.1655
+Student,I've got a cough,neutral,0.0
+Agent,"I haven't had a cough myself, but if you're dealing with one, it might be good to keep an eye on it or check in with a doctor. Anything else you want to know?",positive,0.6486

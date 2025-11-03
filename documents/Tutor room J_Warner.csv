@@ -1,0 +1,103 @@
+user,text,sentiment,score
+Student,hello what brings you in today,neutral,0.0
+Agent,Hey. Just feeling worn out all the time and my legs are swelling up. That's about it.,negative,-0.1779
+Student,when did this begin,neutral,0.0
+Agent,"It's been going on for a while now. Hard to say exactly when it started, but it's gotten worse lately.",negative,-0.6542
+Student,how's your breathing been,neutral,0.0
+Agent,I get short of breath when I walk too far or climb stairs.,neutral,0.0
+Student,are you having any chest pain,negative,-0.5106
+Agent,"No, I haven't had any chest pain.",negative,-0.5106
+Student,are you having any pain,negative,-0.5106
+Agent,"I've got this deep ache in my bones, like I've been hauling pipe all day.",neutral,-0.0258
+Student,have you had any trauma,negative,-0.4215
+Agent,"No, I haven't had any trauma recently.",positive,0.3252
+Student,any fever,neutral,0.0
+Agent,"Nope, no fever that I've noticed.",positive,0.2235
+Student,how long have you been having pain in your bones,negative,-0.5106
+Agent,"It's been a while now. Hard to pinpoint exactly, but it's been getting worse as time goes on.",negative,-0.6542
+Student,do you have any cough,neutral,0.0
+Agent,"No, I haven't had a cough.",neutral,0.0
+Student,anything makes it better,positive,0.4404
+Agent,"Not really. Rest helps a bit, but the tiredness and aches don't go away completely.",negative,-0.4931
+Student,anything makes it worse,negative,-0.4767
+Agent,oving around too much seems to make the swelling and tiredness worse.,negative,-0.4767
+Student,is a swelling worse in the morning,negative,-0.4767
+Agent,"No, it seems to get worse as the day goes on.",negative,-0.4767
+Student,where's the swelling located in your body,neutral,0.0
+Agent,"y legs swell up pretty bad, sometimes it goes up past my knees.",negative,-0.0772
+Student,what would you rate your pain out of 10,negative,-0.5106
+Agent,I'd say it's around a 5 or 6 most days. It's more of a constant ache than sharp pain.,negative,-0.7096
+Student,has this ever happened to you before,neutral,0.0
+Agent,"Not like this. I've had aches and pains from work, but nothing that sticks around like this.",positive,0.0759
+Student,do you have any numbness or tingling,negative,-0.2732
+Agent,"Yeah, my fingers and toes tingle or go numb sometimes, especially when I'm driving.",negative,-0.0516
+Student,do you have any twitching,neutral,0.0
+Agent,"I'm sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,are you having any muscles spasms or muscle cramps,neutral,0.0
+Agent,"I'm sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,have you had any weight loss,negative,-0.3182
+Agent,"Yeah, I've dropped some weight without trying. Food just doesn't sit right anymore.",positive,0.296
+Student,how much weight,neutral,0.0
+Agent,"I'm not really sure of the exact amount, but I've definitely noticed my clothes feeling a bit looser lately.",positive,0.5734
+Student,do you have lots of appetite,neutral,0.0
+Agent,"Not really. Food doesn't sit right, and everything tastes like metal, so I don't eat much.",positive,0.3612
+Student,do you have any nausea or vomiting,neutral,0.0
+Agent,"Yeah, I feel like throwing up most days.",positive,0.5719
+Student,have you vomit,neutral,0.0
+Agent,"Yeah, I've vomited a few times lately.",positive,0.296
+Student,is there blood in your vomit,neutral,0.0
+Agent,"No, I haven't noticed any blood in it.",neutral,0.0
+Student,any changes in your urinary habits,neutral,0.0
+Agent,"I pee less than I used to, and sometimes it's darker, but I figured I just wasn't drinking enough.",neutral,0.0
+Student,how much are you drinking,neutral,0.0
+Agent,"I try to drink water throughout the day, but I guess not as much as I should. I usually have coffee in the morning too.",neutral,0.0
+Student,have you noticed any palpitations or racing heartbeat,neutral,0.0
+Agent,"No, I haven't noticed any palpitations or a racing heartbeat.",neutral,0.0
+Student,give me diarrhea or constipation,neutral,0.0
+Agent,I don't really know. I haven't noticed any diarrhea.,neutral,0.0
+Student,what about constipation,neutral,0.0
+Agent,I haven't really noticed any issues with that.,neutral,0.0
+Student,is there blood in your urine,neutral,0.0
+Agent,"No, I haven't noticed any blood in my urine.",neutral,0.0
+Student,tell me about your exercise habits,neutral,0.0
+Agent,"I used to be pretty active with my plumbing work, but lately, I haven't been able to do much. I try to move around a bit at home, but I get tired quickly.",negative,-0.2263
+Student,do you have any known exposure to lead pipes,neutral,0.0
+Agent,"Not sure what that means. I work with pipes a lot, but I haven't really thought about lead.",negative,-0.1232
+Student,do you have any hazardous material exposure,neutral,0.0
+Agent,"Not that I know of. I mostly work with plumbing materials, nothing too hazardous as far as I can tell.",neutral,0.0
+Student,what is your past medical history,neutral,0.0
+Agent,"I've had high blood pressure since my thirties and had a mild stroke a while back, but I got better from that. I've also been in the hospital for lung congestion before.",positive,0.5023
+Student,do you smoke,neutral,0.0
+Agent,"No, I never smoked.",neutral,0.0
+Student,are you having any trouble swallowing,negative,-0.4019
+Agent,"No, I haven't had any trouble with swallowing.",positive,0.3089
+Student,what medications do you take,neutral,0.0
+Agent,I've got a whole bunch of medicines I'm on that I can't pronounce. My girlfriend makes me keep a list in my wallet.,neutral,0.0
+Student,can I have it,neutral,0.0
+Agent,"Sure, the list includes potassium chloride, clonidine patch, clopidogrel, atenolol, iron, and aspirin.",positive,0.3182
+Student,why are you taking the iron,neutral,0.0
+Agent,I'm not really sure. You'd have to ask the doctors about that.,negative,-0.2912
+Student,do you have any drug allergies,neutral,0.0
+Agent,None that I know of.,neutral,0.0
+Student,can tell me more about your stroke when you were in the hospital in any complications that you're having,neutral,0.0
+Agent,"I had a mild stroke a while back, which caused temporary weakness on my left side, but I got better. I haven't had any complications from it since then.",positive,0.4497
+Student,have you noticed any sores in the mouth or bleeding in the mouth,neutral,0.0
+Agent,"No, I haven't noticed any sores or bleeding in my mouth.",neutral,0.0
+Student,have you noticed any painful urination or urinary frequency,negative,-0.4404
+Agent,"No, I haven't noticed any pain or changes like that when I go to the bathroom.",positive,0.6372
+Student,are you having a dry mouth,neutral,0.0
+Agent,"Yeah, my mouth does feel dry sometimes.",positive,0.296
+Student,how's your oral hygiene,neutral,0.0
+Agent,"I try to keep up with it, but my breath still smells bad, like fish, even after brushing.",negative,-0.3612
+Student,have you noticed any headache or changes in your vision,positive,0.25
+Agent,"Bright lights bother me, and my girlfriend says my eyes look puffy and bulging. I haven't really had headaches, though.",positive,0.128
+Student,what is your family medical history,neutral,0.0
+Agent,y dad died young at 45 from high blood pressure and diabetes. My mom had breast cancer and passed away at 60.,negative,-0.8807
+Student,have you been sick recently,negative,-0.5106
+Agent,"No, I haven't been sick recently, just dealing with these ongoing issues.",positive,0.4023
+Student,have you noticed any rash or itching,negative,-0.4019
+Agent,"Yeah, my skin itches when my legs are swollen.",positive,0.296
+Student,have you had any trouble walking,negative,-0.4019
+Agent,"Yeah, I've been having some trouble walking. My legs swell up pretty bad, and I get tired quickly, so it's been tough to move around like I used to.",negative,-0.4522
+Student,any trouble with your balance,negative,-0.4019
+Agent,"I get dizzy if I stand up too fast, but I haven't really noticed any major balance issues.",negative,-0.1154

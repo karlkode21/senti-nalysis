@@ -1,0 +1,91 @@
+user,text,sentiment,score
+Student,Hey Eugene what brings you in today,neutral,0.0
+Agent,"Hey. Just been feeling worn out all the time. My girlfriend's been worried, so I thought I'd get checked out.",negative,-0.4404
+Student,it says here that you have a history of chronic kidney disease or renal failure can you tell me more about that,negative,-0.5106
+Agent,"I don't really know much about that. I just know I've been feeling pretty lousy lately, with all sorts of symptoms. You'd have to ask the doctors about that one.",positive,0.0516
+Student,can you tell me what kind of symptoms you're having and how long you've been feeling lousy,negative,-0.4588
+Agent,"I've been feeling tired all the time and my legs swell up pretty bad. It's been going on for a while now. My girlfriend says my breath smells weird, too. That's about all I can say.",negative,-0.5267
+Student,is does your breath smell fruity,neutral,0.0
+Agent,"No, my girlfriend says it smells more like fish or chemicals.",positive,0.4201
+Student,does it smell like ammonia or urine,positive,0.3612
+Agent,"Yeah, I do notice an ammonia smell sometimes, even when there's nothing around.",positive,0.296
+Student,do you have a history of stomach ulcers,neutral,0.0
+Agent,I don't have a history of stomach ulcers. Just been feeling nauseated a lot lately.,positive,0.128
+Student,can you tell me more about your past medical history do you have any underlying medical conditions,neutral,0.0
+Agent,"I've had high blood pressure since my thirties. I also had a mild stroke a while back, but I recovered from that. That's about it for my medical history.",negative,-0.1531
+Student,any urinary problems,negative,-0.4019
+Agent,"I pee less than I used to, and sometimes it's darker. But I thought maybe I just wasn't drinking enough.",neutral,0.0
+Student,what color is it,neutral,0.0
+Agent,"It's darker than usual, sometimes kind of brownish.",neutral,0.0
+Student,any lightheadedness on standing,neutral,0.0
+Agent,"Yeah, I do get dizzy if I stand up too fast.",positive,0.0772
+Student,have you vomited or lost consciousness,negative,-0.3182
+Agent,"I've vomited a few times lately, but I haven't lost consciousness.",positive,0.3491
+Student,what color was the vomit,neutral,0.0
+Agent,"The vomit was mostly just a regular color, nothing unusual that I noticed.",neutral,0.0
+Student,any changes in appetite or weight changes,neutral,0.0
+Agent,"Yeah, food doesn't sit right anymore, and I've lost some weight without trying.",neutral,-0.0258
+Student,how much weight and how much time,neutral,0.0
+Agent,I've lost about 15 pounds over the last couple of months.,negative,-0.3182
+Student,do you feel any burning sensation in your chest after you eat,neutral,0.0
+Agent,"No, I haven't noticed any burning sensation in my chest after eating.",neutral,0.0
+Student,is there a difference when you eat solids versus liquids,neutral,0.0
+Agent,"Not really. Everything just tastes like metal, and I don't feel like eating much, whether it's solid or liquid.",positive,0.2477
+Student,are you taking any medications,neutral,0.0
+Agent,"Yeah, I'm on a bunch of medicines I can't pronounce. My girlfriend makes me keep a list in my wallet.",positive,0.296
+Student,what medications are you taking,neutral,0.0
+Agent,"I've got a list here: Furosemide, nifedipine, potassium chloride, clonidine patch, clopidogrel, atenolol, iron, and aspirin.",neutral,0.0
+Student,what do you take those medications for,neutral,0.0
+Agent,I take them mostly for my high blood pressure and to help with my heart. That's about all I know.,positive,0.6908
+Student,how long have you been on those medications,neutral,0.0
+Agent,"I've been on some of them for years, mostly for my high blood pressure. A few were added more recently, but I can't remember exactly when.",negative,-0.1531
+Student,which ones were added more recently,neutral,0.0
+Agent,I'm not exactly sure which ones were added recently. You'd probably have to check with my doctor for that.,negative,-0.2411
+Student,can you tell me more about your family medical history,neutral,0.0
+Agent,"Sure. My dad had high blood pressure and diabetes, and I think he had kidney disease too. He died young, at 45. My mom had breast cancer and passed away at 60.",negative,-0.836
+Student,what about any health issues with your grandparents' siblings or children if you have them,neutral,0.0
+Agent,"I don't really know much about my grandparents' or my siblings' health issues. As for my kids, they're grown and haven't mentioned any health problems.",negative,-0.4019
+Student,have you ever been hospitalized,neutral,0.0
+Agent,"Yeah, I've been hospitalized before for lung congestion and after a mild stroke.",positive,0.296
+Student,do you have any allergies,neutral,0.0
+Agent,None that I know of.,neutral,0.0
+Student,can you tell me a little bit more about the lung congestion are you having any symptoms of coughing or wheezing,neutral,0.0
+Agent,"I haven't had any coughing or wheezing lately. The lung congestion was from a while back, and it cleared up after I was treated in the hospital.",positive,0.1027
+Student,if you had any headaches,neutral,0.0
+Agent,"I get headaches sometimes, but nothing too severe. They come and go.",positive,0.4168
+Student,any vision problems,negative,-0.1779
+Agent,"Bright lights bother me a bit, and my girlfriend says my eyes look puffy or like they're bulging.",positive,0.4588
+Student,have you had any confusion or lost in memory,negative,-0.5423
+Agent,"Yeah, I've been getting mixed up lately and sometimes forget what I was doing.",positive,0.0772
+Student,have you been sleeping okay at night,positive,0.2263
+Agent,"Not really. I can't sleep much anymore. My legs won't stop moving, and I wake up covered in a white, powdery stuff on my skin.",positive,0.2235
+Student,any numbness or tingling in your hands or feet,negative,-0.2732
+Agent,"Yeah, my fingers and toes tingle or go numb sometimes, especially when I drive.",negative,-0.0516
+Student,have you felt itchy or notice any changes in with your heart like palpitations,positive,0.6808
+Agent,"My skin itches when my legs are swollen, but I haven't noticed any changes with my heart like palpitations.",positive,0.8765
+Student,have you lost Consciousness at all,negative,-0.3182
+Agent,"No, I haven't lost consciousness.",positive,0.2411
+Student,any chest pain,negative,-0.5106
+Agent,"No, I haven't had any chest pain.",negative,-0.5106
+Student,have you had any recent infections or have you noticed any irregular bruising or bleeding,neutral,0.0
+Agent,"I haven't had any recent infections, but I've noticed bruises showing up for no reason.",negative,-0.4215
+Student,do you get more fatigued than you used to when you do activities,negative,-0.4005
+Agent,"Yeah, I get worn out a lot faster than I used to, even with simple activities.",neutral,0.0
+Student,any tobacco usage alcohol or drug use,neutral,0.0
+Agent,"I don't smoke or use drugs. I might have a few beers on Fridays, but not often.",neutral,0.0
+Student,what do you do for work,neutral,0.0
+Agent,"I'm a plumber, but I've been off work lately because I'm too tired and weak to keep up.",negative,-0.8271
+Student,do you drink any caffeinated beverages,neutral,0.0
+Agent,"Yeah, I drink coffee every morning.",positive,0.296
+Student,how many cups do you like to drink,positive,0.3612
+Agent,I usually have about two cups in the morning.,neutral,0.0
+Student,any excessive thirst or feeling too hotter too cold,positive,0.128
+Agent,I haven't noticed any excessive thirst or big changes in feeling too hot or too cold.,positive,0.128
+Student,how are you sleeping at night are you using more than one pillow do you get pretty restful sleep,positive,0.6908
+Agent,"I don't sleep well at all. I don't use more than one pillow, but my legs keep moving at night, and I wake up with that white powder on my skin. It's not restful at all.",negative,-0.4717
+Student,do you snore when you sleep,neutral,0.0
+Agent,"I'm not sure if I snore. My girlfriend hasn't mentioned it, just that my legs keep moving and keep her up at night.",negative,-0.2411
+Student,are you in any pain,negative,-0.5106
+Agent,"I've got this deep ache in my bones, like I've been hauling pipe all day. My arms and legs feel weak too.",negative,-0.4588
+Student,do you drink milk,neutral,0.0
+Agent,"Not much, really. I don't drink milk often.",neutral,0.0

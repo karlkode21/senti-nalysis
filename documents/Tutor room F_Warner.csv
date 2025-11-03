@@ -1,0 +1,121 @@
+user,text,sentiment,score
+Student,what brings you in today,neutral,0.0
+Agent,"My girlfriend's been worried about me. I've been really tired, and my legs swell up. It's hard to keep up with work.",negative,-0.6997
+Student,when did you first notice this swelling,neutral,0.0
+Agent,"I started noticing my legs swelling a few months ago. It's gotten worse over time, going up past my knees now.",negative,-0.4767
+Student,and what did you notice you started feeling really tired,negative,-0.4005
+Agent,"I guess I started feeling really worn out around the same time the swelling began, maybe a few months back. It's like I'm tired all the time now.",negative,-0.3384
+Student,did you notice any other symptoms starting around this time,neutral,0.0
+Agent,"Yeah, I started feeling nauseated most days, and everything I eat tastes like metal. My girlfriend says my breath smells funny too.",positive,0.7964
+Student,can you describe funny,positive,0.4404
+Agent,She says my breath smells like fish or chemicals. Not exactly pleasant.,negative,-0.0521
+Student,have you been up taking care of your renal failure,neutral,-0.0258
+Agent,I don't know much about that. You'd have to ask the doctors.,neutral,0.0
+Student,tell me about your past medical history,neutral,0.0
+Agent,"I've had high blood pressure since my thirties. I had a mild stroke a while back, but I got better. I also had some lung congestion before that landed me in the hospital.",positive,0.5023
+Student,when were you in the hospital for your lungs,neutral,0.0
+Agent,"I don't really remember the exact time, but it was a while back. It cleared up after some treatment.",positive,0.1531
+Student,when did you have a stroke,neutral,0.0
+Agent,"I had the stroke a few years ago. It caused some temporary weakness on my left side, but I recovered from it.",negative,-0.2263
+Student,are you taking any medications,neutral,0.0
+Agent,"Yeah, I have a bunch of medicines I'm on that I can't pronounce. My girlfriend makes me keep a list in my wallet.",positive,0.296
+Student,can we see the list,neutral,0.0
+Agent,"Sure, I have it here: Furosemide, nifedipine, potassium chloride, clonidine patch, clopidogrel, atenolol, iron, and aspirin.",positive,0.3182
+Student,what are you taking this medications for,neutral,0.0
+Agent,They're mostly for my high blood pressure and some other issues I've been having. I just take what the doctors tell me to.,negative,-0.296
+Student,have you had any kidney issues,neutral,0.0
+Agent,"Not that I know of. My dad had kidney disease, though. You'd have to ask the doctors if it's related to what's going on with me.",neutral,0.0
+Student,are you experiencing any chest pain,negative,-0.5106
+Agent,"No, I haven't noticed any chest pain lately. Just shortness of breath when I walk too far or climb stairs.",negative,-0.5106
+Student,what's your diet like,positive,0.3612
+Agent,"I try to keep it simple. My girlfriend and I eat out on weekends, but I avoid adding too much salt. Everything tastes like metal, so eating's been tough. I drink coffee every morning.",negative,-0.1768
+Student,have you noticed any swelling,neutral,0.0
+Agent,"Yeah, my legs swell up pretty bad, sometimes going past my knees. It's been happening for a few months now.",positive,0.2263
+Student,have you noticed any weight change,neutral,0.0
+Agent,"Yeah, I've dropped some weight without trying. Food doesn't sit right anymore, so I haven't been eating much.",positive,0.296
+Student,have you had any issues with coughing,neutral,0.0
+Agent,"No, I haven't had any issues with coughing lately. Just shortness of breath sometimes.",neutral,0.0
+Student,have you had any trouble swallowing,negative,-0.4019
+Agent,"No, I haven't had any trouble swallowing. It's mostly the nausea and metallic taste that's bothering me.",negative,-0.088
+Student,does anything make your symptoms better or worse,negative,-0.0516
+Agent,"I haven't noticed anything that makes them better, but moving around too much seems to make me feel worse, especially with the swelling and fatigue.",negative,-0.6908
+Student,do you smoke tobacco,neutral,0.0
+Agent,"No, I don't smoke.",neutral,0.0
+Student,do you drink alcohol,neutral,0.0
+Agent,"I have a few beers occasionally, like on Fridays, but not often.",positive,0.154
+Student,have you still been able to sleep regularly,neutral,0.0
+Agent,"Not really. I don't sleep much anymore. My legs twitch at night, and I wake up covered in this white, powdery stuff on my skin. It's been tough.",negative,-0.128
+Student,do you have any problems urinating or have any urinary incontinence,negative,-0.4019
+Agent,"I pee less than I used to, and sometimes it's dark, but I figured it was just because I wasn't drinking enough. No incontinence, though.",positive,0.3252
+Student,any pain upon urination,negative,-0.5106
+Agent,"No, I haven't experienced any pain when urinating.",positive,0.4023
+Student,urine urine what color is your,neutral,0.0
+Agent,"Sometimes it's dark, but I thought it might be because I'm not drinking enough fluids.",neutral,0.0
+Student,do you ever feel excessively thirsty,neutral,0.0
+Agent,"I haven't noticed feeling excessively thirsty, just the usual here and there.",negative,-0.0951
+Student,have you had any changes to your Bowe3ls,neutral,0.0
+Agent,Not that I've noticed. It's mostly been the nausea and the metallic taste that's been bothering me.,negative,-0.3818
+Student,your skin changes,neutral,0.0
+Agent,"I've noticed some bruises showing up for no reason, and I wake up with a white, powdery frost on my skin that I can brush off. My skin also itches when my legs are swollen.",negative,-0.296
+Student,have you had any history of eczema,neutral,0.0
+Agent,"No, I haven't had any history of eczema.",neutral,0.0
+Student,tell me about your family medical history,neutral,0.0
+Agent,"My dad had high blood pressure, diabetes, and kidney disease, and he died young at 45. My mom had breast cancer and passed away at 60.",negative,-0.8807
+Student,have you been breathing normally,neutral,0.0
+Agent,"I get short of breath when I walk too far or climb stairs, but otherwise, I breathe normally.",neutral,0.0
+Student,have you had any recent infections,neutral,0.0
+Agent,"No, I haven't had any recent infections that I'm aware of.",neutral,0.0
+Student,have you been feeling cold lately more than usual,positive,0.128
+Agent,"Sometimes I feel cold, but other times I suddenly sweat out of nowhere. It's been a mix of both.",neutral,0.0
+Student,have you ever had thyroid issues,neutral,0.0
+Agent,"No, I've never had any thyroid issues.",neutral,0.0
+Student,have you experienced night sweats,neutral,0.0
+Agent,"Yeah, I wake up drenched in sweat sometimes. It's been happening more often lately.",positive,0.296
+Student,have you noticed any lumps anywhere in your body,neutral,0.0
+Agent,"No, I haven't noticed any lumps anywhere.",neutral,0.0
+Student,have you had a fever recently,neutral,0.0
+Agent,"No, I haven't had a fever recently.",neutral,0.0
+Student,have you had any back pain,negative,-0.5106
+Agent,"I haven't noticed any specific back pain, just a deep ache in my bones and general weakness.",negative,-0.8271
+Student,any recent injury or trauma,negative,-0.6808
+Agent,"No, I haven't had any recent injury or trauma.",negative,-0.6808
+Student,have you traveled anywhere recently,neutral,0.0
+Agent,"No, I haven't traveled anywhere recently.",neutral,0.0
+Student,have you ever used recreational drugs,neutral,0.0
+Agent,"No, I don't use drugs.",neutral,0.0
+Student,do you have any allergies,neutral,0.0
+Agent,None that I know of.,neutral,0.0
+Student,tell me more about your bone pain,negative,-0.5106
+Agent,"It's a deep ache, like I've been hauling pipe all day, even when I haven't done anything. It feels like it's in my bones, not just muscle soreness.",positive,0.34
+Student,do you feel like the bone pain is all over your body or in certain locations,positive,0.0772
+Agent,"It feels like it's mostly in my legs and arms, but sometimes it's hard to tell exactly where.",neutral,0.0387
+Student,are you experienced any joint pains or muscle weakness,negative,-0.6808
+Agent,"Yeah, my arms and legs feel weak. I can't lift things like I used to. No specific joint pains, though.",negative,-0.7789
+Student,are you experiencing any numbness or tingling,negative,-0.2732
+Agent,"Yes, my fingers and toes tingle or go numb sometimes, especially when I'm driving.",positive,0.0772
+Student,have you noticed any trouble with coordination or balance,negative,-0.4019
+Agent,"Sometimes I get dizzy if I stand up too fast, but I haven't noticed any major trouble with coordination or balance.",negative,-0.664
+Student,do you have any history of diabetes,neutral,0.0
+Agent,"No, I don't have a history of diabetes, but my dad did.",neutral,0.0
+Student,any legal history to report,positive,0.128
+Agent,"No, I don't have any legal history to report.",negative,-0.0951
+Student,any pets,neutral,0.0
+Agent,No pets at the moment.,negative,-0.296
+Student,any abdominal pain constipation or diarrhea,negative,-0.5106
+Agent,"I haven't noticed any abdominal pain, constipation, or diarrhea. It's mostly been nausea and that metallic taste in my mouth.",negative,-0.5106
+Student,have you vomited,neutral,0.0
+Agent,"Yeah, I've vomited a few times lately. It usually happens when I'm feeling really nauseated.",positive,0.4019
+Student,how often do you vomit,neutral,0.0
+Agent,"It doesn't happen every day, but it's been a few times over the past month or so.",neutral,0.0
+Student,what color is your vomit,neutral,0.0
+Agent,"It's usually just the regular color, nothing unusual like blood or anything.",negative,-0.2755
+Student,is there a specific trigger for your vomiting,neutral,0.0
+Agent,"I haven't noticed a specific trigger. It tends to happen when I'm feeling really nauseated, especially in the mornings.",positive,0.128
+Student,? how is your oral hygiene,neutral,0.0
+Agent,"I brush my teeth regularly, but my girlfriend says my breath still smells bad, like fish or chemicals.",negative,-0.3612
+Student,does the feeling of nausea resolve/go away as the day progresses,positive,0.128
+Agent,"The nausea is there most days, but it sometimes eases up a bit as the day goes on.",positive,0.4497
+Student,Any visual changes/problems?,neutral,0.0
+Agent,My girlfriend says my eyes look puffy and like they're bulging a bit. Bright lights bother me sometimes.,positive,0.4588
+Student,How has your blood pressure been at home?,negative,-0.296
+Agent,"It's been staying high, even with all the pills I'm taking. Doesn't seem to come down much.",neutral,0.0

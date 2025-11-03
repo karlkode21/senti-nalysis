@@ -1,0 +1,79 @@
+user,text,sentiment,score
+Student,It doesn't know any further. It's on what's up. Like you're going to have to be the dictator.,positive,0.3612
+Agent,"I’m sorry, I didn’t quite follow — can you explain it simpler? I just want to focus on Charity right now. She’s been irritable and started saying her right hip hurts, and I’m really worried about her.",negative,-0.7089
+Student,They heard by the Prince.,neutral,0.0
+Agent,I’m not sure what you mean. Could you say that another way? I just want to make sure we’re talking about Charity—she’s been more fussy than usual and her right hip hurts. Is there something specific you’re asking about?,negative,-0.4257
+Student,when did it start,neutral,0.0
+Agent,"It all started about five or six days ago. She first got tired and irritable, then threw up once. The fever started the next day, and the hip pain showed up about two or three days ago. She’s just not herself lately.",negative,-0.8519
+Student,what kind of pain,negative,-0.5563
+Agent,"She points to her right hip and says it hurts. She doesn’t cry all the time, but she limps and doesn’t want to put weight on that leg. It seems to bother her more when she tries to walk or stand.",negative,-0.6956
+Student,can you describe the pain,negative,-0.5106
+Agent,"She doesn’t have the words for it, but she’ll say “ouch” and point to her hip. She doesn’t scream, but she winces and gets upset when she tries to walk. It seems like a dull, nagging pain, not sharp, but enough to make her limp and want to sit down.",negative,-0.9413
+Student,trauma?,negative,-0.4215
+Agent,"No, there hasn’t been any injury or accident that I know of. She didn’t fall or bump into anything, and nothing unusual happened at home or preschool. The pain just started out of nowhere.",negative,-0.8481
+Student,has she been sick,negative,-0.5106
+Agent,"She’s thrown up once and had a low fever off and on for a few days. She’s also been more tired and quiet than usual. No cough or runny nose, and she hasn’t had any other sickness lately.",negative,-0.7574
+Student,what was the color of the vomit,neutral,0.0
+Agent,"It just looked like undigested food and some yellowish stomach juices. Nothing dark or bloody, and it wasn’t a huge amount. She only threw up once, maybe twice, over the past few days.",positive,0.7356
+Student,What medications is she on?,neutral,0.0
+Agent,"She’s only had ibuprofen when her fever or hip pain seemed worse. No other medicines, and she doesn’t take anything regularly.",negative,-0.8225
+Student,Hebrewsing.,neutral,0.0
+Agent,"I’m sorry, I didn’t understand what you meant by “Hebrewsing.” Could you explain it another way? I just want to make sure we’re talking about Charity and her symptoms.",positive,0.6249
+Student,Any bruising?,neutral,0.0
+Agent,"I'm sorry, I had trouble understanding you. Could you please rephrase that?",negative,-0.1779
+Student,bruise,neutral,0.0
+Agent,"I haven’t noticed any bruises on her, just those tiny red spots on her lower legs. They don’t go away when I press on them. No other marks or bruising anywhere else that I’ve seen.",negative,-0.5267
+Student,is anyone around her sick,negative,-0.5106
+Agent,"No, not that I know of. No one at home is sick, and I haven’t heard about anyone at her preschool being unwell either. It all seemed to come on suddenly for her.",negative,-0.6705
+Student,lymph nodes,neutral,0.0
+Agent,I haven’t noticed any swollen lumps or bumps on her neck or anywhere else. No one has mentioned anything about her lymph nodes before. She just seems tired and not herself.,negative,-0.6249
+Student,skin changes,neutral,0.0
+Agent,"The only thing I’ve noticed are those small red spots on her lower legs. Her skin looks paler than usual, but there aren’t any rashes, blisters, or other changes anywhere else.",negative,-0.1531
+Student,fatigue,negative,-0.25
+Agent,"Yes, she’s been much more tired than usual. She doesn’t want to play or run around like she normally does. She’s been quieter, just wanting to sit or lie down most of the time.",positive,0.5729
+Student,gums?,neutral,0.0
+Agent,"Her gums look normal to me—no bleeding or swelling, and she hasn’t complained about mouth pain. I haven’t seen anything unusual inside her mouth.",negative,-0.7184
+Student,can you give me atimeline of her swymptoms,neutral,0.0
+Agent,"Sure. About six days ago, she got tired and irritable, then threw up once. The fever started the next day. Two or three days ago, she began limping and saying her right hip hurt. Yesterday, I noticed the small red spots on her legs. She’s been quieter and less active through all of this.",negative,-0.6901
+Student,Describe the fever for me.,neutral,0.0
+Agent,"Her fever has been low, around a hundred degrees when I checked. It comes and goes—not constant. She sometimes feels warm, but it’s never been very high. She’s seemed uncomfortable with it, but not shivering or sweating a lot.",negative,-0.5423
+Student,A family history of cancer.,negative,-0.6597
+Agent,"Her paternal grandfather had skin cancer a few years ago, but that’s the only cancer I know of in the family. Otherwise, there’s some glucose intolerance and high blood pressure in her grandparents. Nothing else major that I’m aware of.",negative,-0.9118
+Student,"Yeah, there's like genetic disorders that can be associated with but.",positive,0.3291
+Agent,"I’m not sure what you mean by genetic disorders in this case. No one has ever mentioned anything like that to me about our family, and Charity’s always seemed healthy before this. Are you saying this could be something serious?",positive,0.1872
+Student,Anything about her?,neutral,0.0
+Agent,"She’s always been healthy and developing normally. She’s up to date on her shots, eats well, and was always active before all this started. No major illnesses or injuries in the past. This is the first time anything like this has happened with her.",positive,0.8664
+Student,allegies,neutral,0.0
+Agent,"She doesn’t have any known allergies. We haven’t seen any reactions to foods, medicines, or anything else so far.",neutral,0.0
+Student,weight changes,neutral,0.0
+Agent,"I haven’t noticed any weight loss or gain. She looks a bit paler and tired, but her weight seems about the same as usual. She’s just not as energetic lately.",negative,-0.5437
+Student,exposiures,neutral,0.0
+Agent,"She just started preschool a couple days ago, but I haven’t heard about anyone there being sick. No exposures to chemicals, animals, or anything unusual at home. We haven’t traveled recently either.",negative,-0.8047
+Student,how many days ago did shestart school,neutral,0.0
+Agent,"She started preschool two days ago. Before that, she was home with me and her baby sister.",neutral,0.0
+Student,how is her sister doing,neutral,0.0
+Agent,"Her baby sister is doing fine—no fever, no fussiness, and she seems healthy. It’s just Charity who’s been having these problems.",positive,0.1531
+Student,birth history,neutral,0.0
+Agent,"Charity’s birth was pretty normal. She was full-term, no complications, and everything went smoothly. No issues during pregnancy or delivery, and she hit all her milestones as a baby.",negative,-0.0516
+Student,immunizations?,neutral,0.0
+Agent,"She’s up to date on all her immunizations. We’ve always made sure she gets her shots on schedule, and she hasn’t missed any.",neutral,0.0258
+Student,any belly pain,negative,-0.5106
+Agent,"No, she hasn’t complained about any stomach or belly pain. Just that one episode of vomiting and her hip hurting—nothing else in her tummy.",negative,-0.7184
+Student,any hsortness of breath,neutral,0.0
+Agent,"No, she hasn’t had any trouble breathing. No coughing, wheezing, or anything like that. Her breathing seems completely normal.",negative,-0.34
+Student,night sweats,neutral,0.0
+Agent,"No, I haven’t noticed any night sweats. She’s been restless at night but hasn’t been sweating or waking up drenched. Just not sleeping as well as she usually does.",negative,-0.4159
+Student,any bleeding,neutral,0.0
+Agent,"No, I haven’t seen any bleeding—no nosebleeds, gum bleeding, or anything like that. Just those tiny red spots on her legs, but they aren’t open or oozing.",positive,0.1901
+Student,any dizziness or passing out,neutral,0.0
+Agent,"No, she hasn’t seemed dizzy or fainted at all. She’s just quieter and tired, but she hasn’t had any spells where she looked like she might pass out.",positive,0.2144
+Student,eating ?,neutral,0.0
+Agent,"Her appetite isn’t what it used to be. She’s eating less, just picking at her food, but she’s still drinking fluids. Before all this, she ate well and wasn’t picky.",positive,0.3919
+Student,"constipation, diarrhea?",neutral,0.0
+Agent,"No, she hasn’t had any constipation or diarrhea. Her bowel movements have been normal, and there haven’t been any changes there.",neutral,0.0
+Student,headache,neutral,0.0
+Agent,"She hasn’t said anything about her head hurting, and I haven’t seen her act like she’s in pain up there. She just seems tired and not herself, but no complaints of headache.",negative,-0.0806
+Student,can you describge the rash,negative,-0.4019
+Agent,"It’s not really a rash—just tiny, red spots on her lower legs. They don’t fade when I press on them, and they aren’t raised or itchy. There aren’t any blisters or patches, just those little dots.",negative,-0.5106
+Student,muscle weakness,negative,-0.4215
+Agent,"She hasn’t seemed weak in her muscles, but she’s limping and doesn’t want to put weight on her right leg because of the pain. Otherwise, she can still move her arms and other leg normally.",negative,-0.714

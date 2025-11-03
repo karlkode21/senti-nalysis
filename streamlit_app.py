@@ -11,6 +11,12 @@ import tempfile
 from datetime import datetime
 from pathlib import Path
 import base64
+import sys
+
+# Debug info for deployment troubleshooting
+# st.sidebar.write(f"Python: {sys.version}")
+# st.sidebar.write(f"Streamlit: {st.__version__}")
+# st.sidebar.write(f"Pandas: {pd.__version__}")
 
 # Page configuration
 st.set_page_config(
@@ -111,12 +117,16 @@ def init_session_state():
 # File management functions
 def get_available_files():
     """Get list of CSV files from documents directory"""
-    documents_dir = Path(__file__).parent / 'documents'
-    if not documents_dir.exists():
+    try:
+        documents_dir = Path(__file__).parent / 'documents'
+        if not documents_dir.exists():
+            return []
+        
+        files = sorted([f.name for f in documents_dir.glob('*.csv')])
+        return files
+    except Exception as e:
+        st.error(f"Error accessing documents directory: {str(e)}")
         return []
-    
-    files = sorted([f.name for f in documents_dir.glob('*.csv')])
-    return files
 
 def load_completed_files():
     """Load list of completed files from a tracking file"""
@@ -170,16 +180,20 @@ def get_progress_file_path():
 def check_for_saved_progress():
     """Check if there is saved progress"""
     import json
-    progress_file = get_progress_file_path()
-    
-    if progress_file.exists():
-        try:
-            with open(progress_file, 'r', encoding='utf-8') as f:
-                progress_data = json.load(f)
-            return progress_data
-        except Exception as e:
-            st.error(f"Error loading progress: {str(e)}")
-            return None
+    try:
+        progress_file = get_progress_file_path()
+        
+        if progress_file.exists():
+            try:
+                with open(progress_file, 'r', encoding='utf-8') as f:
+                    progress_data = json.load(f)
+                return progress_data
+            except Exception as e:
+                # Silently fail on corrupted progress file
+                return None
+    except Exception:
+        # Silently fail if we can't even get the path
+        pass
     return None
 
 def save_progress_to_file():
@@ -341,10 +355,14 @@ def main():
     
     # Header with logo
     logo_path = Path(__file__).parent / 'images' / 'Senti-Nalysis_logo.png'
-    if logo_path.exists():
-        col1, col2, col3 = st.columns([1, 2, 1])
-        with col2:
-            st.image(str(logo_path), use_column_width=True)
+    try:
+        if logo_path.exists():
+            col1, col2, col3 = st.columns([1, 2, 1])
+            with col2:
+                st.image(str(logo_path), use_column_width=True)
+    except Exception:
+        # Silently skip logo if there's an issue
+        pass
     
     st.markdown("""
     <div class="main-header">
@@ -647,5 +665,11 @@ def show_complete_screen():
         st.rerun()
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        st.error(f"Application Error: {str(e)}")
+        st.error("Please check the deployment logs or contact support.")
+        import traceback
+        st.code(traceback.format_exc())
 
